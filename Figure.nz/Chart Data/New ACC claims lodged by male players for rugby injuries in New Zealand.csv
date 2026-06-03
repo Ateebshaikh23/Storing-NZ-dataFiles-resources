@@ -1,0 +1,106 @@
+﻿Year ended June,Measure,Sport,Gender,Value,Value Unit,Value Label,Null Reason
+2019,New ACC claims lodged for injuries related to rugby,Rugby League,Female,,number,Number of claims,suppressed
+2020,New ACC claims lodged for injuries related to rugby,Rugby League,Female,,number,Number of claims,suppressed
+2021,New ACC claims lodged for injuries related to rugby,Rugby League,Female,1131,number,Number of claims,
+2022,New ACC claims lodged for injuries related to rugby,Rugby League,Female,942,number,Number of claims,
+2023,New ACC claims lodged for injuries related to rugby,Rugby League,Female,1264,number,Number of claims,
+2019,New ACC claims lodged for injuries related to rugby,Rugby League,Male,7989,number,Number of claims,
+2020,New ACC claims lodged for injuries related to rugby,Rugby League,Male,3809,number,Number of claims,
+2021,New ACC claims lodged for injuries related to rugby,Rugby League,Male,6358,number,Number of claims,
+2022,New ACC claims lodged for injuries related to rugby,Rugby League,Male,4559,number,Number of claims,
+2023,New ACC claims lodged for injuries related to rugby,Rugby League,Male,6011,number,Number of claims,
+2019,New ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,suppressed
+2020,New ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,suppressed
+2021,New ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2022,New ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2023,New ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2019,New ACC claims lodged for injuries related to rugby,Rugby Union,Female,7343,number,Number of claims,
+2020,New ACC claims lodged for injuries related to rugby,Rugby Union,Female,,number,Number of claims,suppressed
+2021,New ACC claims lodged for injuries related to rugby,Rugby Union,Female,8291,number,Number of claims,
+2022,New ACC claims lodged for injuries related to rugby,Rugby Union,Female,,number,Number of claims,suppressed
+2023,New ACC claims lodged for injuries related to rugby,Rugby Union,Female,7523,number,Number of claims,
+2019,New ACC claims lodged for injuries related to rugby,Rugby Union,Male,55135,number,Number of claims,
+2020,New ACC claims lodged for injuries related to rugby,Rugby Union,Male,33380,number,Number of claims,
+2021,New ACC claims lodged for injuries related to rugby,Rugby Union,Male,58890,number,Number of claims,
+2022,New ACC claims lodged for injuries related to rugby,Rugby Union,Male,41424,number,Number of claims,
+2023,New ACC claims lodged for injuries related to rugby,Rugby Union,Male,46625,number,Number of claims,
+2019,New ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2020,New ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2021,New ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2022,New ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2023,New ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2019,New ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2020,New ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,not available
+2021,New ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2022,New ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,not available
+2023,New ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2019,Active ACC claims lodged for injuries related to rugby,Rugby League,Female,,number,Number of claims,suppressed
+2020,Active ACC claims lodged for injuries related to rugby,Rugby League,Female,875,number,Number of claims,
+2021,Active ACC claims lodged for injuries related to rugby,Rugby League,Female,1125,number,Number of claims,
+2022,Active ACC claims lodged for injuries related to rugby,Rugby League,Female,1013,number,Number of claims,
+2023,Active ACC claims lodged for injuries related to rugby,Rugby League,Female,1366,number,Number of claims,
+2019,Active ACC claims lodged for injuries related to rugby,Rugby League,Male,10788,number,Number of claims,
+2020,Active ACC claims lodged for injuries related to rugby,Rugby League,Male,5644,number,Number of claims,
+2021,Active ACC claims lodged for injuries related to rugby,Rugby League,Male,6748,number,Number of claims,
+2022,Active ACC claims lodged for injuries related to rugby,Rugby League,Male,5682,number,Number of claims,
+2023,Active ACC claims lodged for injuries related to rugby,Rugby League,Male,6889,number,Number of claims,
+2019,Active ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,suppressed
+2020,Active ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2021,Active ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2022,Active ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2023,Active ACC claims lodged for injuries related to rugby,Rugby League,Another Gender,,number,Number of claims,not available
+2019,Active ACC claims lodged for injuries related to rugby,Rugby Union,Female,7868,number,Number of claims,
+2020,Active ACC claims lodged for injuries related to rugby,Rugby Union,Female,6558,number,Number of claims,
+2021,Active ACC claims lodged for injuries related to rugby,Rugby Union,Female,8610,number,Number of claims,
+2022,Active ACC claims lodged for injuries related to rugby,Rugby Union,Female,7090,number,Number of claims,
+2023,Active ACC claims lodged for injuries related to rugby,Rugby Union,Female,8594,number,Number of claims,
+2019,Active ACC claims lodged for injuries related to rugby,Rugby Union,Male,64322,number,Number of claims,
+2020,Active ACC claims lodged for injuries related to rugby,Rugby Union,Male,46120,number,Number of claims,
+2021,Active ACC claims lodged for injuries related to rugby,Rugby Union,Male,63790,number,Number of claims,
+2022,Active ACC claims lodged for injuries related to rugby,Rugby Union,Male,54051,number,Number of claims,
+2023,Active ACC claims lodged for injuries related to rugby,Rugby Union,Male,57870,number,Number of claims,
+2019,Active ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2020,Active ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2021,Active ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2022,Active ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2023,Active ACC claims lodged for injuries related to rugby,Rugby Union,Another Gender,,number,Number of claims,suppressed
+2019,Active ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2020,Active ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2021,Active ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2022,Active ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2023,Active ACC claims lodged for injuries related to rugby,Rugby Union,Unknown,,number,Number of claims,suppressed
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Female,,nzd,NZD,suppressed
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Female,1248502.45,nzd,NZD,
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Female,1245424.04,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Female,1365638.08,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Female,2072823.43,nzd,NZD,
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Male,20366520.25,nzd,NZD,
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Male,15862935.52,nzd,NZD,
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Male,15789985.28,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Male,15504823.55,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Male,19029910.86,nzd,NZD,
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Another Gender,,nzd,NZD,suppressed
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Another Gender,,nzd,NZD,not available
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Another Gender,,nzd,NZD,not available
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Another Gender,,nzd,NZD,not available
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby League,Another Gender,,nzd,NZD,not available
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Female,5823202.36,nzd,NZD,
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Female,6213584.86,nzd,NZD,
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Female,7388725.6,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Female,7162838.03,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Female,8927008.57,nzd,NZD,
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Male,83182749.38,nzd,NZD,
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Male,83848826.47,nzd,NZD,
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Male,90892083.58,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Male,91272744.89,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Male,109465983.21,nzd,NZD,
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Another Gender,,nzd,NZD,suppressed
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Another Gender,,nzd,NZD,suppressed
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Another Gender,1520.76,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Another Gender,832.76,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Another Gender,457.32,nzd,NZD,
+2019,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Unknown,,nzd,NZD,suppressed
+2020,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Unknown,,nzd,NZD,suppressed
+2021,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Unknown,6447.93,nzd,NZD,
+2022,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Unknown,41681.43,nzd,NZD,
+2023,Costs of active ACC claims lodged for injuries related to rugby (excluding GST),Rugby Union,Unknown,51504.72,nzd,NZD,
