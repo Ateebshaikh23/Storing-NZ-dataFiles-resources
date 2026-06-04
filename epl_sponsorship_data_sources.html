@@ -1,0 +1,346 @@
+
+<h2 class="sr-only">Complete data source directory — APIs, Excel datasets, and scrapers for EPL sponsorship ROI and brand analytics</h2>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+.w{padding:1rem 0;font-family:var(--font-sans)}
+.topbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;flex-wrap:wrap;gap:8px}
+.filters{display:flex;flex-wrap:wrap;gap:6px}
+.fb{padding:4px 11px;font-size:11.5px;border:.5px solid var(--color-border-secondary);border-radius:20px;background:transparent;color:var(--color-text-secondary);cursor:pointer;transition:all .15s}
+.fb.on{background:var(--color-text-primary);color:var(--color-background-primary);border-color:var(--color-text-primary)}
+.count{font-size:11px;color:var(--color-text-secondary)}
+.section{margin-bottom:1.5rem}
+.sec-label{font-size:11px;font-weight:500;color:var(--color-text-secondary);text-transform:uppercase;letter-spacing:.5px;margin-bottom:.625rem;padding-bottom:.5rem;border-bottom:.5px solid var(--color-border-tertiary)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:10px}
+.card{background:var(--color-background-primary);border:.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:.875rem;display:flex;flex-direction:column;gap:8px}
+.card:hover{border-color:var(--color-border-secondary)}
+.card-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.card-name{font-size:13px;font-weight:500;color:var(--color-text-primary);line-height:1.3}
+.card-url{font-size:11px;color:var(--color-text-info);text-decoration:none;word-break:break-all}
+.card-url:hover{text-decoration:underline}
+.card-desc{font-size:12px;color:var(--color-text-secondary);line-height:1.55}
+.card-meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:2px}
+.badge{display:inline-block;font-size:10.5px;padding:2px 7px;border-radius:4px;font-weight:500;white-space:nowrap}
+.free{background:#E1F5EE;color:#085041}
+.paid{background:#FAECE7;color:#712B13}
+.freemium{background:#FAEEDA;color:#633806}
+.excel{background:#EAF3DE;color:#27500A}
+.scrape{background:#EEEDFE;color:#3C3489}
+.cat-badge{background:var(--color-background-secondary);color:var(--color-text-secondary);font-size:10px;padding:2px 7px;border-radius:4px}
+.code{font-size:11px;font-family:var(--font-mono);background:var(--color-background-secondary);padding:5px 8px;border-radius:6px;color:var(--color-text-primary);overflow-x:auto;white-space:nowrap;border:.5px solid var(--color-border-tertiary);margin-top:2px}
+.hidden{display:none}
+</style>
+
+<div class="w">
+<div class="topbar">
+  <div class="filters" id="filters">
+    <button class="fb on" onclick="filter('all',this)">All sources</button>
+    <button class="fb" onclick="filter('match',this)">Match data</button>
+    <button class="fb" onclick="filter('social',this)">Social</button>
+    <button class="fb" onclick="filter('brand',this)">Brand/sponsor</button>
+    <button class="fb" onclick="filter('broadcast',this)">Broadcast</button>
+    <button class="fb" onclick="filter('financial',this)">Financial</button>
+    <button class="fb" onclick="filter('dataset',this)">Datasets/Excel</button>
+  </div>
+  <span class="count" id="count">32 sources</span>
+</div>
+<div id="main"></div>
+</div>
+
+<script>
+const SOURCES=[
+  {
+    cat:'match',section:'Match & performance data',
+    name:'football-data.org',url:'https://www.football-data.org',
+    cost:'free',costLabel:'Free',
+    desc:'EPL fixtures, results, standings, scorers. 380 matches/season. No auth for basic tier. 10 calls/min free.',
+    endpoint:'GET https://api.football-data.org/v4/competitions/PL/matches',
+    tags:['REST','JSON','EPL','Fixtures','Standings']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'API-Football (RapidAPI)',url:'https://rapidapi.com/api-sports/api/api-football',
+    cost:'freemium',costLabel:'Free tier',
+    desc:'100 req/day free. Full EPL stats: lineups, xG, player ratings, injuries, head-to-head. Most comprehensive free football API.',
+    endpoint:'GET https://v3.football.api-sports.io/fixtures?league=39&season=2024',
+    tags:['REST','JSON','xG','Player stats','Injuries']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'Opta / Statsperform',url:'https://www.statsperform.com/opta',
+    cost:'paid',costLabel:'Paid',
+    desc:'The gold standard. xG, PPDA, progressive passes, pressure data for every EPL match. Used by clubs, broadcasters, and betting firms.',
+    endpoint:'Commercial contract required — enterprise pricing',
+    tags:['xG','Advanced metrics','Historical','Real-time']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'StatsBomb Open Data',url:'https://github.com/statsbomb/open-data',
+    cost:'free',costLabel:'Free',
+    desc:'360° tracking data, event data, lineups for select competitions. Free JSON on GitHub. Best free source for deep event-level analysis.',
+    endpoint:'github.com/statsbomb/open-data/tree/master/data',
+    tags:['GitHub','JSON','Event data','360 tracking']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'TheSportsDB',url:'https://www.thesportsdb.com/api.php',
+    cost:'free',costLabel:'Free',
+    desc:'Free tier covers leagues, teams, player metadata, event results, team logos and badges. Good for club metadata enrichment.',
+    endpoint:'GET https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?l=English+Premier+League',
+    tags:['REST','JSON','Metadata','Logos']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'Understat.com',url:'https://understat.com',
+    cost:'free',costLabel:'Scrape (free)',
+    desc:'xG, xA, shot maps for every EPL match since 2014/15. No official API but data is embedded as JSON in HTML — easily scrapable with Python requests + BeautifulSoup.',
+    endpoint:'import understatapi  # pip install understatapi',
+    tags:['Scrape','xG','Shot maps','Historical']
+  },
+  {
+    cat:'match',section:'Match & performance data',
+    name:'FBref (StatsBomb powered)',url:'https://fbref.com',
+    cost:'free',costLabel:'Free (scrape)',
+    desc:'Full advanced stats: progressive carries, pressures, aerial duels, VAEP. pandas.read_html() works directly on tables. Terms permit personal/research use.',
+    endpoint:'pd.read_html("https://fbref.com/en/comps/9/stats/Premier-League-Stats")',
+    tags:['Scrape','pandas','Advanced stats','Historical']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'X (Twitter) API v2',url:'https://developer.twitter.com/en/docs/twitter-api',
+    cost:'freemium',costLabel:'Free tier',
+    desc:'Free Basic tier: 500K tweet reads/month. Search recent tweets by hashtag (#PremierLeague, club names). Sentiment analysis, fan volume, sponsor mention tracking.',
+    endpoint:'GET https://api.twitter.com/2/tweets/search/recent?query=%23PremierLeague&tweet.fields=public_metrics',
+    tags:['REST','JSON','Sentiment','Real-time','Fan mentions']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'Meta Graph API (Instagram + Facebook)',url:'https://developers.facebook.com/docs/graph-api',
+    cost:'freemium',costLabel:'Free (auth required)',
+    desc:'Access page insights: follower counts, post reach, engagement rate, impressions. Requires Page admin access or business partner approval for competitor data.',
+    endpoint:'GET /v19.0/{page-id}/insights?metric=page_impressions,page_engaged_users',
+    tags:['REST','JSON','Engagement','Follower data']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'YouTube Data API v3',url:'https://developers.google.com/youtube/v3',
+    cost:'free',costLabel:'Free',
+    desc:'10,000 units/day free. Fetch EPL club channel stats: subscriber count, view count, video performance. Correlate highlight video views with match outcomes.',
+    endpoint:'GET https://www.googleapis.com/youtube/v3/channels?part=statistics&id={channelId}',
+    tags:['REST','JSON','Video data','Subscriber count']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'TikTok Research API',url:'https://developers.tiktok.com/products/research-api',
+    cost:'free',costLabel:'Free (academic)',
+    desc:'Academic/research access to TikTok video and user data. Apply via TikTok for Research. Good for analysing viral sports content and club TikTok strategy.',
+    endpoint:'POST https://open.tiktokapis.com/v2/research/video/query/',
+    tags:['REST','JSON','TikTok','Academic']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'Reddit API (PRAW)',url:'https://www.reddit.com/dev/api',
+    cost:'free',costLabel:'Free',
+    desc:'Free tier for scraping r/PremierLeague, r/soccer. Fan sentiment, post-match reactions, sponsor discussion. Use PRAW Python library. 100 req/min.',
+    endpoint:'import praw  # pip install praw\nreddit.subreddit("PremierLeague").hot(limit=100)',
+    tags:['Python','PRAW','Sentiment','Fan discussion']
+  },
+  {
+    cat:'social',section:'Social media & sentiment',
+    name:'Brandwatch / Mention.com',url:'https://www.brandwatch.com',
+    cost:'paid',costLabel:'Paid',
+    desc:'Enterprise social listening: track sponsor brand mentions, sentiment shifts after EPL matches, share of voice vs. competitors. Brandwatch used by major EPL clubs.',
+    endpoint:'REST API — commercial contract, contact sales',
+    tags:['Enterprise','Sentiment','Brand mentions','SOV']
+  },
+  {
+    cat:'brand',section:'Sponsorship & brand measurement',
+    name:'Blinkfire Analytics',url:'https://blinkfire.com',
+    cost:'paid',costLabel:'Paid',
+    desc:'Computer vision platform that measures logo exposure in broadcast video and social photos. Provides CPM-equivalent brand value per sponsorship placement. Used by EPL clubs.',
+    endpoint:'REST API — subscription required (contact sales)',
+    tags:['Computer vision','Logo detection','Broadcast','Social']
+  },
+  {
+    cat:'brand',section:'Sponsorship & brand measurement',
+    name:'Nielsen Sports',url:'https://www.nielsen.com/solutions/audience-measurement/sports',
+    cost:'paid',costLabel:'Paid',
+    desc:'Industry standard for sponsorship ROI measurement. Broadcast exposure tracking, brand recall surveys, social media valuation. Data source for EPL commercial reports.',
+    endpoint:'Custom data delivery — enterprise contract',
+    tags:['Enterprise','Brand recall','Broadcast','Surveys']
+  },
+  {
+    cat:'brand',section:'Sponsorship & brand measurement',
+    name:'Brand Finance Football 50',url:'https://brandfinance.com/rankings/football',
+    cost:'free',costLabel:'Free (reports)',
+    desc:'Annual club brand valuations. Download free summary PDF/Excel every July. Covers BSI scores, brand value change YoY for top 50 football clubs globally.',
+    endpoint:'brandfinance.com/rankings/football — download free annual report PDF',
+    tags:['PDF','Excel','Annual','Brand value','BSI score']
+  },
+  {
+    cat:'brand',section:'Sponsorship & brand measurement',
+    name:'Transfermarkt',url:'https://www.transfermarkt.com',
+    cost:'free',costLabel:'Scrape (free)',
+    desc:'Player market values, transfer fees, squad valuations. Unofficial Python library available. Useful for correlating squad investment with sponsorship premium.',
+    endpoint:'pip install transfermarkt-scraper\nimport transfermarkt',
+    tags:['Scrape','Player values','Transfer fees','Squad value']
+  },
+  {
+    cat:'brand',section:'Sponsorship & brand measurement',
+    name:'Soccerway / Sportcal',url:'https://www.sportcal.com',
+    cost:'paid',costLabel:'Paid',
+    desc:'Sportcal covers all EPL sponsorship deals: value, duration, category, renewal history. The most comprehensive sponsorship database for football commercially.',
+    endpoint:'Web-based dashboard — subscription required',
+    tags:['Database','Deal values','Historical','Renewals']
+  },
+  {
+    cat:'financial',section:'Financial & commercial data',
+    name:'Companies House API (UK)',url:'https://developer.company-information.service.gov.uk',
+    cost:'free',costLabel:'Free',
+    desc:'All EPL clubs are registered UK companies. Pull audited financial statements: revenue, wage bill, operating profit. Free JSON API, no auth for basic use.',
+    endpoint:'GET https://api.company-information.service.gov.uk/company/{company-number}/filing-history',
+    tags:['REST','JSON','Financials','Annual accounts','Free']
+  },
+  {
+    cat:'financial',section:'Financial & commercial data',
+    name:'Deloitte Football Money League',url:'https://www.deloitte.com/uk/en/services/financial-advisory/research/deloitte-football-money-league.html',
+    cost:'free',costLabel:'Free (report)',
+    desc:'Annual report covering top 20 clubs by revenue. Matchday/broadcast/commercial revenue split. Free PDF/Excel download every January. Essential benchmark dataset.',
+    endpoint:'deloitte.com — free annual report PDF with Excel data tables',
+    tags:['Excel','PDF','Revenue','Commercial','Annual']
+  },
+  {
+    cat:'financial',section:'Financial & commercial data',
+    name:'Swiss Ramble (Substack)',url:'https://swissramble.substack.com',
+    cost:'free',costLabel:'Free',
+    desc:'Deep financial analysis of EPL clubs from public accounts. Not an API but provides cleaned Excel datasets from Companies House filings for all Big-6 clubs.',
+    endpoint:'swissramble.substack.com — manual download, Excel attachments',
+    tags:['Excel','Financial analysis','Big-6','Cleaned data']
+  },
+  {
+    cat:'financial',section:'Financial & commercial data',
+    name:'Capology',url:'https://www.capology.com/uk/premier-league/salaries',
+    cost:'free',costLabel:'Free (scrape)',
+    desc:'Estimated player wage data for all EPL clubs. Scrape with requests/BS4. Useful for correlating wage spend with commercial deal values and performance.',
+    endpoint:'pd.read_html("https://www.capology.com/uk/premier-league/salaries/")',
+    tags:['Scrape','Wages','Salary','Squad cost']
+  },
+  {
+    cat:'broadcast',section:'Broadcast & viewership data',
+    name:'BARB (Broadcasters Audience Research Board)',url:'https://www.barb.co.uk/download-data',
+    cost:'free',costLabel:'Free (weekly)',
+    desc:'Official UK TV ratings body. Download weekly top programmes Excel file — includes Sky Sports and TNT EPL match ratings. Free, updated weekly.',
+    endpoint:'barb.co.uk/download-data — Excel download, updated every Tuesday',
+    tags:['Excel','UK ratings','Sky Sports','TNT','Weekly']
+  },
+  {
+    cat:'broadcast',section:'Broadcast & viewership data',
+    name:'Nielsen Gracenote Sports API',url:'https://www.gracenote.com/sports',
+    cost:'paid',costLabel:'Paid',
+    desc:'Metadata API covering sports schedules, results, standings — used by broadcasters. Gracenote also provides viewership data by market. Enterprise-only.',
+    endpoint:'REST API — commercial contract',
+    tags:['Enterprise','Metadata','Schedules','Broadcast']
+  },
+  {
+    cat:'broadcast',section:'Broadcast & viewership data',
+    name:'SportsMediaWatch.com',url:'https://www.sportsmediawatch.com',
+    cost:'free',costLabel:'Free (scrape)',
+    desc:'Manually compiled US sports TV ratings including NBC/Peacock EPL figures every week. No API but tables are easily scraped with pandas.read_html().',
+    endpoint:'pd.read_html("https://www.sportsmediawatch.com/nbc-sports-premier-league-ratings/")',
+    tags:['Scrape','US ratings','NBC','Peacock','Weekly']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'Kaggle — EPL datasets',url:'https://www.kaggle.com/datasets?search=premier+league',
+    cost:'free',costLabel:'Free',
+    desc:'100+ EPL datasets: match results 1993–2024, player stats, FIFA ratings, betting odds, attendance. Download as CSV. Good for historical modelling baseline.',
+    endpoint:'kaggle datasets download -d saife245/english-premier-league',
+    tags:['CSV','Historical','Match results','Player stats']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'football-data.co.uk',url:'https://www.football-data.co.uk/englandm.php',
+    cost:'free',costLabel:'Free',
+    desc:'Free CSV files: every EPL match result + betting odds from 20+ bookmakers since 1993. Direct Excel/CSV download. Ideal for odds vs. outcome modelling.',
+    endpoint:'https://www.football-data.co.uk/mmz4281/2425/E0.csv',
+    tags:['CSV','Excel','Betting odds','Historical','Direct download']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'FBref bulk data export',url:'https://fbref.com/en/comps/9/Premier-League-Stats',
+    cost:'free',costLabel:'Free (scrape)',
+    desc:'Every squad and player stat table on FBref is downloadable as CSV via the Share/Export button. Or use sportsreference Python library for bulk pulls.',
+    endpoint:'pip install sportsreference\nfrom sportsreference.fb.teams import Teams',
+    tags:['CSV','Python','Advanced stats','Squad stats']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'Transfermarkt bulk export',url:'https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1',
+    cost:'free',costLabel:'Free (scrape)',
+    desc:'Historical transfer fees, player values, squad market values by season. worldfootball Python package or direct pandas scrape. 20 years of EPL transfer history.',
+    endpoint:'pip install worldfootball\nfrom worldfootball import get_player_market_values',
+    tags:['Scrape','Transfer fees','Market values','Historical']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'Premier League official stats',url:'https://www.premierleague.com/stats',
+    cost:'free',costLabel:'Free (unofficial API)',
+    desc:'The PL website has an undocumented REST API powering its stats pages. Returns player stats, club stats, standings as JSON — unofficial but widely used.',
+    endpoint:'GET https://fantasy.premierleague.com/api/bootstrap-static/',
+    tags:['JSON','Unofficial','Player stats','Club stats']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'Fantasy Premier League API',url:'https://fantasy.premierleague.com/api/bootstrap-static',
+    cost:'free',costLabel:'Free',
+    desc:'Completely free, no auth. Returns all players, clubs, fixtures, player form scores, ownership %, price. Updated daily during season. Perfect for player value modelling.',
+    endpoint:'GET https://fantasy.premierleague.com/api/bootstrap-static/\nGET https://fantasy.premierleague.com/api/element-summary/{player_id}/',
+    tags:['JSON','Free','No auth','Player form','Daily updates']
+  },
+  {
+    cat:'dataset',section:'Datasets, Excel & Kaggle',
+    name:'OpenFootball (GitHub)',url:'https://github.com/openfootball/england',
+    cost:'free',costLabel:'Free',
+    desc:'Open data project: all EPL results in plain text and JSON format going back to 1888. Public domain, no API key needed. Good for longitudinal analysis.',
+    endpoint:'github.com/openfootball/england — JSON/text files',
+    tags:['GitHub','JSON','Historical','Open data','Free']
+  },
+];
+
+const SECTIONS=['Match & performance data','Social media & sentiment','Sponsorship & brand measurement','Financial & commercial data','Broadcast & viewership data','Datasets, Excel & Kaggle'];
+
+function render(cat){
+  const filtered=cat==='all'?SOURCES:SOURCES.filter(s=>s.cat===cat);
+  document.getElementById('count').textContent=filtered.length+' sources';
+  const bySec={};
+  filtered.forEach(s=>{if(!bySec[s.section])bySec[s.section]=[];bySec[s.section].push(s);});
+  document.getElementById('main').innerHTML=Object.entries(bySec).map(([sec,items])=>`
+    <div class="section">
+      <div class="sec-label">${sec} — ${items.length} source${items.length>1?'s':''}</div>
+      <div class="grid">
+        ${items.map(s=>`
+          <div class="card">
+            <div class="card-top">
+              <div>
+                <div class="card-name">${s.name}</div>
+                <a class="card-url" href="${s.url}" target="_blank">${s.url.replace('https://','')}</a>
+              </div>
+              <span class="badge ${s.cost}">${s.costLabel}</span>
+            </div>
+            <div class="card-desc">${s.desc}</div>
+            <div class="code">${s.endpoint}</div>
+            <div class="card-meta">${s.tags.map(t=>`<span class="badge cat-badge">${t}</span>`).join('')}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function filter(cat,btn){
+  document.querySelectorAll('.fb').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+  render(cat);
+}
+
+render('all');
+</script>
