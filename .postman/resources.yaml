@@ -1,0 +1,8 @@
+workspace:
+  id: 5bc18e6b-93b1-441d-8ce6-e57b36c11dcb
+localResources:
+  collections:
+    - ../postman/collections/APi data related to NZ 1
+cloudResources:
+  collections:
+    ../postman/collections/APi data related to NZ 1: 28107057-8985ee39-0840-450b-b6aa-423ee7e7b9bc

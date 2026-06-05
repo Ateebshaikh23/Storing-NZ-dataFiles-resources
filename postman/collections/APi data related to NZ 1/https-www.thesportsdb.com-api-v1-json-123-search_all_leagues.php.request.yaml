@@ -1,0 +1,9 @@
+$kind: http-request
+name: https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php
+description: data related NZ soccer
+url: https://www.thesportsdb.com/api/v1/json/123/search_all_leagues.php?c=New_Zealand&s=Soccer
+method: GET
+queryParams:
+  c: New_Zealand
+  s: Soccer
+order: 1000

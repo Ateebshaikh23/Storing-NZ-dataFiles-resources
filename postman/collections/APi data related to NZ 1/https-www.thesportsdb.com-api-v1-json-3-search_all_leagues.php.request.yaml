@@ -1,0 +1,7 @@
+$kind: http-request
+name: https://www.thesportsdb.com/api/v1/json/3/search_all_leagues.php
+url: https://www.thesportsdb.com/api/v1/json/3/search_all_leagues.php?s=Rugby
+method: GET
+queryParams:
+  s: Rugby
+order: 3000
