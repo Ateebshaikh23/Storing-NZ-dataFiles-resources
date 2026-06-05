@@ -1,0 +1,189 @@
+﻿OBJECTID,Reference,Category,Location,TotalArea,Playground,Reserve_Name,DisplayOrder,Image,Shape__Area,Shape__Length
+1,SR12,SportRecreation,Flaxmere,8.6679,No,Ron Giorgi Park II,1,Yes,86841.525390625,1302.86378179281
+2,SR13,SportRecreation,Flaxmere,6.2590,Yes,Ron Giorgi Park III,1,Yes,62694.0439453125,1163.04634481188
+3,C03,Community,Flaxmere,0.3062,No,Cartier Crescent Reserve,2,Yes,3067.822265625,228.90610979785
+4,C06,Community,Flaxmere,0.2481,No,Diaz Drive Reserve,2,No,2486.0322265625,204.824494355543
+5,L38,LinkageUrban,Flaxmere,0.2681,No,Flaxmere Avenue Reserve,8,Yes,2685.01171875,281.098309873236
+6,C20,Community,Flaxmere,0.0827,No,Kilkee Reserve,2,No,829.2236328125,113.684430995125
+7,C21,Community,Flaxmere,3.9592,Yes,Kingsley Park,2,Yes,39662.76171875,909.827313925734
+8,L46,LinkageUrban,Flaxmere,0.1046,No,Kirkwood Road Reserve,8,No,1048.7666015625,159.711919926238
+9,C22,Community,Flaxmere,1.7269,Yes,Len Harlen Park,2,Yes,17302.94140625,635.684764150918
+10,C23,Community,Flaxmere,3.3757,No,Lochain Park,2,Yes,33818.576171875,988.990244831633
+11,C28,Community,Flaxmere,0.1178,Yes,Nanny Kona Park,2,No,1174.3505859375,165.023259145541
+12,OS17,OpenSpaceMaintained,Flaxmere,0.7234,No,Ramsey Crescent Reserve,4,Yes,7248.3857421875,1243.75558446809
+13,C39,Community,Flaxmere,0.8851,Yes,Ron Giorgi Park I,2,No,8868.2763671875,391.03285476416
+14,OS22,OpenSpaceMaintained,Flaxmere,1.0220,No,Walton Way Reserve,4,No,10238.7490234375,415.233260589068
+15,OS06,OpenSpaceMaintained,Flaxmere,4.4788,No,Flaxmere Avenue Roundoff,4,Yes,43226.802734375,2214.20025809334
+16,SR04,SportRecreation,Flaxmere,9.9542,Yes,Chatham Park,1,Yes,99577.6318359375,1384.18918053242
+17,SR06,SportRecreation,Flaxmere,16.7855,Yes,Flaxmere Park,1,Yes,168211.887695312,2125.01613699325
+18,L36,LinkageUrban,Flaxmere,0.5653,No,Chatham Road Reserves,8,No,5664.6875,457.561718968447
+19,L41,LinkageUrban,Flaxmere,0.7386,No,Henderson Road Reserves,8,No,7400.6181640625,553.358014242398
+20,C17,Community,Flaxmere,1.7732,Yes,Hugh Little Park,2,Yes,17763.90234375,551.358253550459
+21,C24,Community,Flaxmere,0.1498,No,Margate Avenue Reserve,2,No,1501.123046875,164.927422973857
+22,C25,Community,Flaxmere,0.3821,No,Margate Place Reserve,2,Yes,3827.76953125,245.434835886523
+23,L51,LinkageUrban,Flaxmere,0.0731,No,Peterhead/Swansea Road Reserve,8,No,732.81640625,106.596966444433
+24,C34,Community,Flaxmere,0.0798,No,Poole Street Reserve,2,No,799.685546875,112.866763426608
+25,C41,Community,Flaxmere,0.1880,Yes,Sunderland Drive Reserve,2,Yes,1880.78125,178.15606194776
+26,CS02,CivicSpace,Flaxmere,0.9121,No,Flaxmere Library and Community Centre,9,Yes,9294.3330078125,503.111945856073
+27,SR07,SportRecreation,Hastings,19.1726,Yes,Frimley Park,1,Yes,196475.29296875,1976.85376443889
+28,SR09,SportRecreation,Hastings,3.6345,Yes,Kirkpatrick Park,1,Yes,36410.1123046875,873.016715335765
+29,SR10,SportRecreation,Hastings,30.1807,No,Regional Sports Park,1,Yes,289608.118164062,2491.43051316415
+30,SR14,SportRecreation,Hastings,4.8748,Yes,St Leonards Park,1,Yes,48817.841796875,1174.85950602277
+31,L33,LinkageUrban,Hastings,0.3935,No,Arbuckle Reserve,8,No,3941.0380859375,465.474725928515
+32,L34,LinkageUrban,Hastings,0.1437,No,Barcroft Reserve,8,No,1440.373046875,187.118340499352
+33,L37,LinkageUrban,Hastings,0.2610,No,Edwards Reserve,8,No,2613.736328125,242.663174015301
+34,L39,LinkageUrban,Hastings,0.1657,No,Frimley Park (Pakowhai Corner),8,No,1669.720703125,163.100137359946
+35,L40,LinkageUrban,Hastings,0.0959,No,Greenlea Reserves,8,No,1290.181640625,300.830858933699
+36,L43,LinkageUrban,Hastings,0.0539,No,Kain Place Reserve,8,No,541.1142578125,128.149322732736
+37,L52,LinkageUrban,Hastings,0.2502,No,Todd Taylor Reserve,8,No,2474.814453125,269.587840819294
+38,L47,LinkageUrban,Hastings,0.0488,No,Matariki Reserve,8,No,490.0537109375,103.717406710926
+39,CS10,CivicSpace,Hastings,0.1262,No,Orchard Road Citizen Band Rooms,9,No,1265.4345703125,142.921520692767
+40,C40,Community,Hastings,1.2975,No,St Aubyn Street Reserve,2,Yes,13710.1318359375,848.44976552066
+41,C42,Community,Hastings,0.7944,No,Tamatea Street Reserve,2,Yes,7961.330078125,606.487761395784
+42,L49,LinkageUrban,Hastings,0.5882,No,Orchard Road Reserves,8,Yes,5899.0908203125,1395.34963467079
+43,CH03,Cultural,Hastings,6.6738,No,Hastings Cemetery,6,No,67026.7939453125,1132.32356601592
+44,CH09,Cultural,Hastings,2.5283,No,Stoneycroft Historic House and Garden,3,Yes,25335.7333984375,637.389224909739
+45,C07,Community,Hastings,1.2292,No,Duke Street Reserve,2,No,12335.7666015625,445.252036090919
+46,L42,LinkageUrban,Hastings,0.0417,No,Inglis Place Reserve,8,No,418.572265625,151.461641806404
+47,L48,LinkageUrban,Hastings,0.0377,No,Nelson/St Aubyn Road Reserve,8,No,377.75390625,96.8809623293187
+48,C30,Community,Hastings,0.3000,Yes,Northwood Reserve,2,Yes,3004.462890625,260.572076555748
+49,L02,LinkageEcological,Hastings,0.5368,No,Boundary Esplanade,7,Yes,5377.5380859375,1072.4629014538
+50,PG01,PublicGardens,Hastings,8.5103,Yes,Cornwall Park,3,Yes,84894.5009765625,1474.58818753605
+51,SR01,SportRecreation,Hastings,9.4418,Yes,Akina Park,1,Yes,94729.82421875,1459.66989163596
+52,CS05,CivicSpace,Hastings,0.7835,No,Hastings Sports Centre,9,Yes,7850.7734375,395.951124695054
+53,C08,Community,Hastings,3.3647,Yes,Ebbett Park,2,Yes,33747.3701171875,1438.58317204812
+54,C45,Community,Hastings,0.1553,Yes,Whenua Takoha Reserve,2,Yes,1554.4150390625,156.388465937631
+55,CS01,CivicSpace,Hastings,2.0115,Yes,Civic Square,9,Yes,21119.130859375,622.582101961792
+56,CS03,CivicSpace,Hastings,1.2117,No,Hastings Civic Administration Buildings,9,Yes,12173.3037109375,441.993008468742
+57,CS04,CivicSpace,Hastings,0.1328,No,Hastings Inner City Mall,9,No,1331.6015625,213.347778293869
+58,SR03,SportRecreation,Hastings,3.6032,No,Bill Mathewson Park,1,Yes,36107.9072265625,912.482903215305
+59,SR15,SportRecreation,Hastings,26.7981,Yes,Windsor Park,1,Yes,269447.719726562,2322.00811026312
+60,C31,Community,Hastings,0.1083,No,Norton Road Reserve,2,No,1397.4755859375,152.571959117458
+61,L50,LinkageUrban,Hastings,0.1614,No,Palmer Symons Link Reserve,8,Yes,1617.291015625,173.796911284476
+62,C37,Community,Hastings,1.0117,Yes,Queens Square,2,Yes,10139.646484375,402.790929236299
+63,C46,Community,Hastings,0.6004,Yes,William Nelson Park,2,No,6015.0966796875,317.741028518175
+64,CS08,CivicSpace,Hastings,0.0852,No,Landmarks Square,9,No,852.0732421875,124.914761451969
+65,CS09,CivicSpace,Hastings,0.0256,No,Opera House Church Carpark,9,No,267.0673828125,78.3165514665886
+66,SR02,SportRecreation,HavelockNorth,9.0408,Yes,Anderson Park,1,Yes,95572.13671875,1715.65823165143
+67,C16,Community,HavelockNorth,1.8309,Yes,Havelock North Domain 'Village Green',2,Yes,18343.4521484375,629.031058855699
+68,C05,Community,HavelockNorth,0.1361,No,Chestnut Court Reserve,2,Yes,1364.6591796875,191.893522589803
+69,C13,Community,HavelockNorth,0.8812,Yes,Grant Street Reserve,2,Yes,8816.6494140625,1091.03159461522
+70,L44,LinkageUrban,HavelockNorth,0.0980,No,Karanema Drive Reserve,8,No,986.9892578125,136.999947099681
+71,L45,LinkageUrban,HavelockNorth,0.1489,No,Keith Sands Grove Reserve,8,No,1492.2470703125,251.843540347492
+72,C26,Community,HavelockNorth,0.0696,No,McDuff Place Reserve,2,No,657.400390625,117.442821470989
+73,C38,Community,HavelockNorth,0.1222,No,Rakau Street Reserve,2,Yes,1225.2060546875,153.576361656038
+74,PG03,PublicGardens,HavelockNorth,7.9441,Yes,Keirunga Gardens,3,Yes,79614.837890625,1733.32213367433
+75,CH04,Cultural,HavelockNorth,2.7890,No,Havelock North Cemetery,6,Yes,27946.2607421875,668.98318354852
+76,CH05,Cultural,HavelockNorth,0.0115,No,Havelock North Cenotaph,6,No,119.0166015625,58.9818300459493
+77,CS07,CivicSpace,HavelockNorth,0.8205,No,Havelock North Library and Community Centre,9,No,8221.6240234375,387.923905440399
+78,SR08,SportRecreation,HavelockNorth,6.2256,No,Guthrie Park,1,Yes,62256.984375,1015.04456737981
+79,SR11,SportRecreation,HavelockNorth,4.0514,No,Romanes Park,1,Yes,40514.3896484375,1331.46605156093
+80,C01,Community,HavelockNorth,0.1184,No,Awarua Crescent Reserve,2,No,1187.44140625,156.332544314782
+81,L35,LinkageUrban,HavelockNorth,0.1628,No,Brooklands Drive Reserve,8,No,1631.912109375,194.414610811456
+82,PG02,PublicGardens,HavelockNorth,1.5041,No,Duart Historic House and Gardens,3,No,15071.1142578125,846.771144366549
+83,OS01,OpenSpaceMaintained,HavelockNorth,1.3241,No,Arataki Link Reserve,4,No,13266.908203125,950.323226527586
+84,OS07,OpenSpaceMaintained,HavelockNorth,0.3712,No,Greenwood Road Reserve,4,No,3720.2333984375,344.441542176143
+85,OS25,OpenSpaceNatural,HavelockNorth,1.0373,No,Hikanui Reserve,5,No,10391.95703125,615.029701713777
+86,OS11,OpenSpaceMaintained,HavelockNorth,2.8220,No,James Cook Street Reserves,4,No,28264.28125,1841.20317319771
+87,OS26,OpenSpaceNatural,HavelockNorth,4.0309,No,Kingsgate Reserve,5,No,40374.1357421875,2268.99157201537
+88,C33,Community,HavelockNorth,6.3913,Yes,Palmbrook Reserve,4,No,68783.1552734375,2281.32688359518
+89,L23,LinkageEcological,HavelockNorth,0.6536,No,Reeve Drive Reserves,7,No,6552.66796875,691.476750221432
+90,OS30,OpenSpaceNatural,HavelockNorth,15.7326,No,Tainui Reserve,5,Yes,165031.548828125,3264.77763943532
+91,OS32,OpenSpaceNatural,HavelockNorth,2.0568,No,Tanner Street Reserve,5,No,20604.72265625,973.132345752437
+92,OS33,OpenSpaceNatural,HavelockNorth,4.2377,No,Tauroa Reserve,5,Yes,42430.1396484375,1963.56281749826
+93,L53,LinkageUrban,HavelockNorth,0.7495,No,Woodlands Drive Reserve,8,No,7514.029296875,913.696515030374
+94,L06,LinkageEcological,HavelockNorth,0.4165,No,Crosses Road Riverbank Reserve,7,No,4113.529296875,934.747256511996
+95,OS29,OpenSpaceNatural,Rural,7.1958,No,River Road Recreation Reserve,5,Yes,72064.69140625,1677.60079060646
+96,C02,Community,Plains,1.4432,Yes,Bridge Pa Domain,2,Yes,14505.40625,711.072417047189
+97,OS23,OpenSpaceMaintained,Plains,0.4720,No,Pakowhai Country Park Carpark,4,Yes,4730.8857421875,300.813320537496
+98,L04,LinkageEcological,Plains,0.2909,No,Chesterhope Road Esplanade Reserve,7,Yes,4144.92578125,973.429318457107
+99,L26,LinkageEcological,Plains,0.7688,No,Stock Road Esplanade Reserve,7,Yes,7435.611328125,804.778672467156
+100,C10,Community,Plains,0.3237,Yes,Essex Crescent Reserve,2,Yes,3244.5732421875,225.169894767948
+101,C29,Community,Plains,0.4702,Yes,Ngaruroro Avenue Reserve,2,Yes,4712.908203125,293.508386964454
+102,L11,LinkageEcological,Plains,1.0340,No,Essex Crescent Esplanade Reserve,7,Yes,10905.7919921875,1148.4600026223
+103,L24,LinkageEcological,Plains,0.0960,No,State Highway 2 Esplanade Reserve,7,No,1011.7734375,137.818923453417
+104,SR05,SportRecreation,Plains,11.2701,Yes,Farndon Park,1,Yes,113205.6015625,2675.72732935893
+105,C14,Community,Plains,0.0770,Yes,Gregory Park,2,No,771.5302734375,117.902321184874
+106,C11,Community,Plains,1.1052,Yes,Evers-Swindell Reserve,2,Yes,11047.921875,687.29445700735
+107,L01,LinkageEcological,Plains,0.1289,No,Allens Lane Esplanade Reserve,7,No,1248.0966796875,404.833623218714
+108,L05,LinkageEcological,Plains,0.1949,No,Clive River Esplanade Reserves,7,Yes,2479.2470703125,757.027975307478
+109,L08,LinkageEcological,Plains,0.1012,No,Elizabeth Place Esplanade Reserve,7,No,1228.0078125,364.739534220491
+110,L12,LinkageEcological,Plains,0.0136,No,Ferry Road Esplanade Reserve,7,No,140.314453125,53.2456727318086
+111,L19,LinkageEcological,Plains,0.1110,No,Mill Road Esplanade Reserves,7,Yes,1152.2041015625,387.695906290685
+112,L29,LinkageEcological,Plains,0.1341,No,Tucker Lane Esplanade Reserve,7,Yes,1634.896484375,446.790581125751
+113,CH01,Cultural,Plains,0.0146,No,Clive Cenotaph,6,No,384.6142578125,87.8927497787296
+114,C15,Community,Plains,3.5543,Yes,Haumoana Memorial Park,2,No,35711.20703125,898.777347791321
+115,C04,Community,Plains,0.4663,No,Cavell Park,2,No,4671.77734375,341.349349044445
+116,CS06,CivicSpace,Plains,0.1424,No,Haumoana Hall,9,No,1436.8955078125,152.802942038511
+117,OS13,OpenSpaceMaintained,Plains,0.4247,No,Mill Road Reserves,4,No,4255.279296875,441.755246157231
+118,OS09B,OpenSpaceNatural,Plains,5.7307,No,Clive Grange (Haumoana Beachfront),5,Yes,57307.5537109375,2511.6832784062
+119,L13,LinkageEcological,Plains,0.2333,No,Gow Avenue Esplanade Reserve,7,No,2428.412109375,460.660514184829
+120,C32,Community,Plains,0.1898,No,Oregon Road Reserve,2,No,1902.2548828125,177.41198870266
+121,C43,Community,Plains,2.5080,Yes,Te Awanga Domain,2,Yes,25157.8505859375,1448.41426369103
+122,L03,LinkageEcological,Rural,12.0000,No,Charlton Road Esplanade Reserve,7,No,148589.360351562,11426.4851663651
+123,OS03,OpenSpaceMaintained,Rural,11.5722,No,Clifton Domain,4,No,138480.875976562,3743.41014919792
+124,C12,Community,Rural,0.5534,No,Gillies Crescent Reserve,2,Yes,5510.91796875,284.829481183944
+125,CS14,CivicSpace,Rural,0.1993,No,Waimarama and Maraetotara Memorial Hall,9,No,2034.294921875,193.392446165752
+126,OS15,OpenSpaceMaintained,Rural,1.5099,No,Paparewa Reserve,4,Yes,15170.1982421875,946.163491153519
+127,OS16,OpenSpaceMaintained,Rural,0.1695,No,Pouhokio Stream Esplanade Reserve,4,No,1715.2421875,224.266393277801
+128,C44,Community,Rural,11.1803,Yes,Waimarama Domain,2,Yes,109926.64453125,2502.61875185856
+129,OS35,OpenSpaceNatural,Rural,1.7425,No,Waingongoro Stream Recreation Reserve,5,Yes,17453.6962890625,1123.36401397669
+130,OS08,OpenSpaceMaintained,Rural,1.4567,No,Harper Road Esplanade Reserve,4,Yes,14404.6865234375,1499.76286669229
+131,OS02,OpenSpaceMaintained,Rural,1.3645,No,Waimarama Domain (Airini Road Reserve),4,No,14446.0107421875,1058.43666631471
+132,C35,Community,Rural,3.8841,Yes,Puketapu Park,2,Yes,60300.54296875,1388.96286462154
+133,OS24,OpenSpaceNatural,Rural,5.9259,No,Hakowhai Recreation Reserve,5,Yes,58741.4228515625,1551.45197452156
+134,L22,LinkageEcological,Rural,0.2880,No,Puketapu Esplanade Reserve,7,Yes,2782.9609375,331.562490961955
+135,CH08,Cultural,Rural,0.3027,No,Puketapu Cemetery,6,Yes,3033.84765625,266.486301670198
+136,C09,Community,Rural,12.5453,Yes,Eskdale Park,2,Yes,122686.66796875,1736.16969169688
+137,L10,LinkageEcological,Rural,0.6550,No,Esk River Esplanade Reserves,7,Yes,7222.744140625,752.050699709142
+138,L31,LinkageEcological,Rural,1.1500,No,Waipunga Road Esplanade Reserves,7,Yes,11602.5390625,1044.31244496141
+139,L32,LinkageEcological,Rural,1.1910,No,Yule Road Esplanade Reserve,7,Yes,9490.1923828125,1151.1146730275
+140,CH02,Cultural,Rural,0.0076,No,Eskdale War Memorial Site,6,No,251.9853515625,70.6287840032035
+141,C36,Community,Rural,2.0234,Yes,Putorino Domain,2,Yes,19661.150390625,563.37028296622
+142,OS19,OpenSpaceMaintained,Rural,2.2328,No,Te Pohue Hall,4,Yes,22781.1298828125,593.074701821022
+143,L18,LinkageEcological,Rural,15.0980,No,McVicar Road Esplanade Reserves,7,Yes,160797.586914062,8648.0058992179
+144,CS12,CivicSpace,Rural,0.8093,No,Tutira Hall,9,Yes,7908.212890625,404.72551331382
+145,L30,LinkageEcological,Rural,2.5693,No,Waikoau Road Esplanade Reserve,7,Yes,29853.1806640625,1798.23436052069
+146,OS28,OpenSpaceNatural,Rural,7.9925,No,Ridgemount Road Plantation Reserve,5,Yes,85661.6533203125,1586.56524017122
+147,OS10,OpenSpaceMaintained,Rural,63.4068,Yes,Hutchinson Domain,4,No,651486.876953125,5491.93296404286
+148,C18,CivicSpace,Rural,0.0809,No,Kaiwaka Hall,9,Yes,813.607421875,114.281178047815
+149,OS21A,OpenSpaceMaintained,Rural,5.1078,No,Waipatiki Domain,4,Yes,51078.412109375,2236.41460791877
+150,L09,LinkageEcological,Rural,1.2760,No,Ellis Wallace Road Esplanade Reserves,7,Yes,13424.37109375,1767.17744522407
+151,CS11,CivicSpace,Rural,0.0801,No,Patoka Hall,9,Yes,981.015625,127.951343972298
+152,OS31,OpenSpaceNatural,Rural,5.4060,No,Tangoio Beach Reserve,5,Yes,61399.0283203125,1910.27168557975
+153,OS37,OpenSpaceNatural,Rural,17.6141,No,Whirinaki Recreation Reserve,5,No,167357.435546875,7144.12647497866
+154,OS05,OpenSpaceMaintained,Rural,0.9637,No,Dartmoor Bridge Recreation Reserve,4,Yes,13009.7333984375,666.873237156577
+155,L07,LinkageEcological,Rural,0.8900,No,Crownthorpe Road Esplanade Reserve,7,Yes,7639.521484375,772.914280361219
+156,L15,LinkageEcological,Rural,6.3000,No,Mangatarata Stream Esplanade Reserve,7,No,63100.166015625,6113.99765057212
+157,L25,LinkageEcological,Rural,3.5000,No,Shanley Road Esplanade Reserve,7,Yes,24229.9951171875,3555.75511532509
+158,OS18,OpenSpaceMaintained,Rural,10.9642,No,Roys Hill Reserve,4,No,109877.814453125,1425.74385772142
+159,L27,LinkageEcological,Rural,0.1950,No,Taihape Road Esplanade Reserve,7,Yes,2031.7158203125,412.291604266624
+160,CS13,CivicSpace,Plains,0.1338,No,Twyford Hall,9,Yes,1340.333984375,147.926873178682
+161,OS12,OpenSpaceMaintained,Rural,6.0804,No,Matapiro War Memorial Site,4,Yes,59230.69921875,977.329370704669
+162,L17,LinkageEcological,Rural,0.4000,No,Matapiro Road Esplanade Reserves,7,No,4189.7998046875,616.956906158436
+163,L20,LinkageEcological,Rural,1.0165,No,Ngaruroro River Esplanade Reserves,7,Yes,9315.048828125,1371.27713879995
+164,OS36,OpenSpaceNatural,Rural,10.0984,No,Whanaukino Gorge Reserve,5,No,101133.782226562,2224.73625573539
+165,L14,LinkageEcological,Rural,0.1368,No,Kereru Road Esplanade Reserve,7,No,1372.052734375,201.439734933069
+166,CH07,Cultural,Rural,0.2453,No,Maraekakaho War Memorial ,6,Yes,2479.0751953125,259.667971340721
+167,L28,LinkageEcological,Rural,0.1018,No,Tait Road Esplanade Reserves,7,Yes,1361.99609375,222.275325316727
+168,L21,LinkageEcological,Plains,0.1666,No,Old Main Road Esplanade Reserve,7,No,1611.421875,273.436158053844
+169,CH06,Cultural,Plains,8.1292,No,Mangaroa Cemetery,6,No,81616.7783203125,1594.33073590669
+170,OS27,OpenSpaceNatural,Rural,1.7400,No,Maraetotara Waterfalls,5,Yes,17380.244140625,2476.29022392253
+171,L16,LinkageEcological,Rural,2.6120,No,Maraetotara Road Esplanade Reserve,7,Yes,23515.353515625,2567.56880246676
+172,OS14,OpenSpaceMaintained,Rural,1.7472,No,Ocean Beach,4,Yes,17507.921875,584.123029556261
+173,C27,Community,HavelockNorth,0.3176,No,Meissner Park,2,No,3176.595703125,231.062150016079
+174,C47,Community,HavelockNorth,0.2253,No,Whakatomo Park,2,No,2260.806640625,275.428541148095
+175,L54,LinkageEcological,Plains,0.0728,No,Johnston Way Esplanade Reserves,7,No,246.7919921875,880.26833846318
+176,L58,LinkageUrban,Hastings,0.0657,No,Sue Place Reserve,8,No,658.5439453125,154.092392518989
+177,OS21B,OpenSpaceNatural,Rural,16.4705,No,Waipatiki Bush Reserve,5,No,164705.62890625,2113.47652212664
+178,OS40,OpenSpaceNatural,HavelockNorth,107.4542,No,Te Mata Park,5,No,1040434.80078125,9839.43597148771
+179,OS09C,OpenSpaceNatural,Plains,5.0497,No,Clive Grange (Haumoana Lagoon),5,Yes,50497.162109375,2190.30571057396
+180,OS09A,OpenSpaceMaintained,Plains,4.9297,No,Clive Grange (Haumoana Domain),4,Yes,49297.4228515625,912.876680714118
+181,OS09D,OpenSpaceNatural,Plains,13.0512,No,Clive Grange (Clifton Road Reserve),5,Yes,129407.428710938,3322.67493862952
+182,C54,Community,Hastings,0.1285,No,Lochhead Street Reserve,,No,1287.6748046875,149.317003233277
+183,C53,Community,Hastings,0.5669,Yes,Lawrie Cook Reserve,,No,5677.2822265625,697.597355584291
+186,C52,Community,Flaxmere,,No,Korowai Street Reserve,,No,993.6650390625,138.72254257552
+187,L57,Community,Plains,0.2425,No,Read Crescent Reserve,,No,2426.1806640625,478.813791176824
+188,C51,Community,Haumoana - Te Awanga,1.6478,No,Te Awanga Terrace Reserve (Community),,No,16515.9716796875,1002.7341172953
+189,OS39,OpenSpaceMaintained,Haumoana - Te Awanga,0.1282,No,Te Awanga Terrace Reserve (Open Space),,No,1285.17578125,146.068956336917
+190,,,Hastings,41.1,No,Tomoana Showgrounds,,,412028.107421875,2566.37563979641

@@ -1,0 +1,20 @@
+﻿Location,Main_Track,Track_Name,Road_Name,Road_Section,Surface,Use_,Difficulty,OBJECTID,WIDTH_M_,Distance,Source,WalkTime,RideTime,PrimaryUse,GlobalID,created_user,created_date,last_edited_user,last_edited_date,ShapeSTLength
+Te Awa Kairangi,Hutt River Trail,,,,Sealed Path,,,104,,,UHCC,,,Walking & Biking,{86C11C8D-BCFB-4971-8BCB-9FABA884FE2F},,,,,1280.54438273187
+Birchville Picnic Area,Hutt River Trail,,,,Sealed Path,,Easy,105,,,UHCC,,,Walking & Biking,{5B8712DB-04C7-4B33-B294-C74D553917E7},,,,,20.4753452749536
+Ngāti Tama Park,Hutt River Trail,,,,Sealed Path,,,114,,,,,,,{D9B3E880-CE21-495D-B55D-3BD3496AF37E},,,,,1013.9708402438
+Te Haukāretu Park,Hutt River Trail,,,,Sealed Path,,,119,,,UHCC,,,Walking & Biking,{758D49CA-6EF7-4747-B684-7D18CC5C3C45},,,,,812.883224146064
+Te Haukāretu Park,Hutt River Trail,,,,Gravel Path,,,120,,,UHCC,,,Walking & Biking,{C45F3D11-98D3-41AA-9D50-701E21B5724B},,,,,170.16060057773
+Awa Kairangi Park,Hutt River Trail,,,,Gravel Path,,,125,,,,,,,{8F217EA4-29A5-4F16-8ADD-E972F55198AB},,,,,35.1482079394019
+Awa Kairangi Park,Hutt River Trail,,,,Sealed Path,,,126,,,,,,,{0EED7AB9-FC62-41D3-87EE-CB2558685FFF},,,,,915.358566284876
+Te Awa Kairangi,Hutt River Trail,,,,Gravel Path,,,127,,,UHCC,,,Walking & Biking,{682561CB-FBB1-4891-A90F-C14CC22E6523},,,,,12966.6281667108
+Trentham Memorial Park,Hutt River Trail,,,,Gravel Path,,Easy,130,,,UHCC,,,,{81D35841-605B-44F9-A002-47A7580F2C5C},,,,,173.758355613246
+Trentham Memorial Park,Hutt River Trail,,,,Sealed Path,,Easy,135,,,UHCC,,,,{8064B913-A382-4F28-AA8E-B098E81AD5BF},,,,,157.646305034917
+Moonshine Park,Hutt River Trail,,,,Sealed Path,,,136,,,,,,,{F79A62B8-0884-46B8-8DC1-7DFFE5A7A2C6},,,,,1055.65046345072
+Moonshine Park,Hutt River Trail,,,,Gravel Path,,,140,,,,,,,{08939D36-4FD8-419B-8B16-F5CC63E95E9C},,,,,222.626744136139
+Te Awa Kairangi,Hutt River Trail,,,,Natural Path,,,154,,,,,,,{4A44612E-826E-4F8A-9EA2-F698AC09968D},,,,,492.910424705727
+Birchville Esplanade Reserve,Hutt River Trail,,,,Gravel Path,,,169,,,,,,,{07944633-ABAA-4320-94E4-A3316BCC4E1B},,,,,1688.98572439986
+Birchville Picnic Area,Hutt River Trail,,,,Gravel Path,,Easy,170,,,UHCC,,,Walking & Biking,{1532D3A2-7D9C-4C5E-83AF-51CD4700643A},,,,,187.675178571892
+Blackbeech Esplanade Reserve,Hutt River Trail,,,,Sealed Path,,Easy,173,,,UHCC,,,Walking & Biking,{0BAD3971-CFCE-49E9-97DE-386D83FC02BB},,,,,982.333204427842
+Harcourt Park,Hutt River Trail,,,,Sealed Path,,Easy,175,,,UHCC,,,Walking & Biking,{113CCB09-709D-41F9-B55B-149F3191E7A9},,,,,314.219730572722
+Silverstream Amenity Reserve,Hutt River Trail,,,,Gravel Path,,,349,,,,,,,{2E198136-931D-43AF-996A-0EF3DFF4574A},,,,,29.507094555304
+Te Awa Kairangi,Hutt River Trail,,,,Sealed Path,,Easy,368,,,UHCC,,,Walking & Biking,{2CA00629-B340-4D64-8652-50268AE2EEFD},,,,,327.196414294492

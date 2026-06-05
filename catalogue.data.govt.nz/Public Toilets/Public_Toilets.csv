@@ -1,0 +1,28 @@
+﻿X,Y,OBJECTID,TYPE,Location,GlobalID,Facility,Description,SubType,Shape,created_user,created_date,last_edited_user,last_edited_date
+1770569.8385,5444294.9559,1,,Trentham Memorial Park - Domain Bush,{98321D4E-7008-47CE-A7BD-9F948F95E2B7},Public Toilet,Erehwon Toilet Block,Concrete Blocks,,,,LCARTER,2023/11/28 01:08:21+00
+1776002.2961,5446906.5517,2,"1 x Male, 1 x Urinal, 1 x Female",Te Haukāretu Park,{942ABAE9-7E29-45C6-BE7C-D205F5ED2ADE},Public Toilet,Te Haukāretu Toilet Block,Concrete Blocks,,,,,
+1775896.4576,5447743.0807,3,"1 x Male, 1 x Urinal, 4 x Female",Harcourt Park,{514FF001-D74A-4CC0-B53F-0650F5651710},Public Toilet,Toilets,Concrete,,,,,
+1767641.8237,5443047.9355,4,,Silverstream Amenity Reserve,{8E9E381C-88C6-48A5-89C7-7C4D77114436},Public Toilet,Permaloo Toilet Block,Permaloo,,,,,
+1768947.62,5442763.373,5,Unisex,Silverstream Park,{79AFE8E6-DBB4-4579-B706-1FABEC0CF740},Public Toilet,Exeloo Toilet Block,Exeloo,,,,,
+1770813.4449,5445318.2152,6,,Moonshine Park,{0B82FBA3-DB2F-42EC-8EBC-16F3437A900E},Public Toilet,Toilet Block in middle of Moonshine Park,Concrete Blocks,,,,,
+1774058.7849,5445125.1283,7,,Maidstone Max - East,{148EBAF8-161C-4788-8C6D-43164C720D67},Public Toilet,Exeloo Toilet Block,Exeloo,,,,LCARTER,2023/11/28 00:41:04+00
+1775730.3028,5447588.2739,8,"1 x Male, 2 x Urinal, 1 x Female",Harcourt Park Soccer,{526FAB34-8191-4294-AF13-7B7FD1CB957C},Public Toilet,Toilet Block within Pavilion in Harcourt Soccer Park,Concrete Blocks,,,,,
+1768969.7342,5443536.73,9,,Heretaunga Park,{00F113CE-D30F-4289-83BB-C1DC6C98E930},Public Toilet,Heretaunga Park Toilet Block structure,Concrete Blocks,,,,,
+1770116.0413,5444470.7209,10,"4 x Male, 1 x Urinal, 7 x Female",Trentham Memorial Park - Trentham Sports Centre,{DF370D41-6083-4ECE-918B-EBD8D5F13181},Public Toilet,Public Toilets in Trentham Sports Centre,Concrete Blocks,,,,LCARTER,2023/11/28 01:08:21+00
+1774925.9117,5446723.2075,12,,Awa Kairangi Park,{33FB2B16-186F-461E-99A8-6A625EB21D39},Public Toilet,,,,,,LCARTER,2023/11/22 21:17:45+00
+1778416.8578,5459232.214,13,,Clouston Park,{2B635D87-4512-40AD-B5A3-BD05ACF028C4},Public Toilet,Concrete toilet block (Not being used),Concrete,,,,,
+1776165.9041,5448907.8347,14,,Birchville Picnic Area,{F7EF74D4-D896-4337-8E4A-551093F04CF7},Public Toilet,SS Combi Unit Toilet suite and Basin,Combi Toilet Suite,,,,,
+1770534.9513,5444974.0126,15,,Moehau Park,{237DDADA-886E-4964-809E-22B12F9EA18E},Public Toilet,Toilet,Tin Shed,,,,,
+1776786.5953,5449424.4355,16,,Akatārawa Cemetry,{9F047BDF-F0FA-4B56-9C08-933B47A6F322},Public Toilet,Permaloo Toilet Block,Exeloo,,,,LCARTER,2023/10/26 22:47:08+00
+1773943.2455,5445907.666,17,Male & Female,Oxford Park,{C3E15040-7E83-48BB-93D2-73766C51B32F},Public Toilet,Toilet Block - Mens and Womens,Concrete Blocks,,,,,
+1776761.9949,5447283.1517,18,"1 x Male, 1 x Urinal, 1 x Female",Timberlea Park,{138339EF-31E6-4FB5-A853-1C395A0A0BB7},Public Toilet,Toilet Block at Timberlea Park,Concrete Blocks,,,,,
+1775576.5586,5446766.6806,19,,Ngāti Tama Park,{35DEEF95-8BF8-4A05-BA16-00F6EA088080},Public Toilet,,,,,,,
+1777420.0488,5452189.7125,20,"1 x Male, 1 x Urinal, 1 x Female",Karapoti Reserve,{F08B3DC3-6013-4713-9303-E4C0AA09EF5A},Public Toilet,,,,,,,
+1773861.549,5445435.4122,21,1 x Unisex,Centre Walk,{846CC50B-5714-4A9D-BFEC-03DE9A2AEFD4},Public Toilet,,,,,,,
+1773917.4339,5445083.3674,22,Exeloo,Maidstone Max - West,{0EA8E594-54EE-4A9F-9959-C6C7772BD6B0},Public Toilet,Exeloo Toilet Block,,,,,LCARTER,2023/11/28 00:41:04+00
+1769028.1334,5441632.3748,23,,Pinehaven Reserve,{B09EB1C7-1F04-48CE-B108-7F8579C94DD1},Public Toilet,Toilet Block with Changing Rooms,Concrete Blocks,,,,,
+1771117.081,5445564.0314,24,,Moonshine Park - Moonshine Road Carpark,{9700637C-9344-44C1-A49B-BE309D4D5B7E},Public Toilet,OLD Toilet Block by carpark off Moonshine Rd,Shockcrete,,,,LCARTER,2023/11/28 00:43:55+00
+1770658.5115,5444513.1575,25,Female,Trentham Memorial Park - Brentwood Carpark - Female,{2F1109B1-A88B-4906-9CFC-5F822B6692E3},Public Toilet,Brentwood Public Toilet Block by entrance from carpark,,,,,LCARTER,2023/11/28 01:08:21+00
+1770663.0595,5444501.7347,26,Male,Trentham Memorial Park - Brentwood Carpark - Male,{104BF51E-E96C-49D2-BF90-D37E5A3B0B5C},Public Toilet,Brentwood Public Toilet Block by entrance from carpark,,,,,LCARTER,2023/11/28 01:08:21+00
+1773673.2261,5445195.0671,28,Male & Female,Library Garage,{0D97122C-3C17-4269-AD63-3FDAE1EADA11},Public Toilet,,,,LCARTER,2023/10/29 21:02:40+00,LCARTER,2023/10/29 21:04:14+00
+,,29,,,{F4C85B95-E017-434F-A2F8-60C2C4C07334},Symbol - Public Toilet,,,,LCARTER,2023/11/03 00:33:43+00,LCARTER,2023/11/03 00:33:43+00

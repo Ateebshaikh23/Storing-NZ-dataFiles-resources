@@ -1,0 +1,73 @@
+﻿Name,Park,Season,Use_,Park_Season,Entire_Park,OBJECTID,GlobalID,Shape,created_user,created_date,last_edited_user,last_edited_date,ShapeSTArea,ShapeSTLength
+Athletics,Trentham Memorial Park,Summer,Athletics,Trentham Memorial Park - Summer,No,1,{BD0F8326-DA08-46EE-804A-74BD3C24E10C},,,,,,14505.99834771,459.301489839843
+"Cricket (Artificial, Junior)",Heretaunga Park,Summer,Cricket,Heretaunga Park - Summer,No,2,{98BA03D9-8266-4A6A-B0BD-46D2A0FDFF0D},,,,LCARTER,2023/10/26 02:28:21+00,10880.290677175,372.435941402033
+Rugby 2,Maidstone Park,Winter,Rugby,Maidstone Park - Winter,No,3,{2B54E730-8FC8-41FE-823B-741260649AF2},,,,LCARTER,2025/07/22 04:38:58+00,8370.4636172,379.410964209548
+Rugby 1,Maidstone Park,Winter,Rugby,Maidstone Park - Winter,No,4,{FD1D9590-12B9-46C1-A982-A864CF6D8B83},,,,,,8370.4636172,379.410964209548
+Cricket 6,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,5,{BFBD3B39-2EEA-4B77-8442-DCA0D0717A80},,,,,,11090.44914658,376.517377484151
+Cricket 4 (Artificial),Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,6,{E98DF9D3-61F7-4E7E-B8FC-0DDB0FA0AB76},,,,,,11675.33415771,385.307645658235
+Cricket 5 (Artificial),Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,7,{EBEC77A6-4F9B-407D-81F0-7525FE0B1F64},,,,,,11597.00155323,384.158456323924
+Cricket 1,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,8,{FF61D9DD-406E-4E9B-9888-D4F4F35C907A},,,,LCARTER,2023/10/19 00:50:47+00,13232.993782145,408.123747461924
+Barton Oval,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,9,{34CC0FAA-6E62-4E0A-9433-D5543744B5AA},,,,LCARTER,2023/10/19 00:50:47+00,13282.49006305,408.70269317526
+Cricket 2,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,10,{C2507779-8A7E-4BCD-8695-1860C3291204},,,,,,12617.382869705,405.757331760144
+Football Practice (Artificial),Maidstone Park,All Year,Football,Maidstone Park - All Year,No,11,{5032217F-5798-46B5-8382-405052ECEF17},,,,,,1427.51197441,186.892294124017
+Multi Turf (Artificial),Maidstone Park,All Year,Mixed,Maidstone Park - All Year,No,12,{7C8A841E-C82B-49E1-8EDE-41DA305D9439},,,,,,7550.48044191,362.099128397782
+Hockey (Artificial),Maidstone Park,All Year,Hockey,Maidstone Park - All Year,No,13,{4D5B5BCB-B490-4202-8A02-9F8B8B8C1B70},,,,,,5015.5126623,292.451780431813
+Softball Skin,Whakatiki Park,Summer,Softball,Whakatiki Park - Summer,No,14,{32E0A6CD-F522-4936-999D-B1F7F33E93BE},,,,,,3992.008408295,255.19228111349
+Dual Cricket,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,15,{8B89FB47-53B2-4EC6-B390-F2D5A6545A97},,,,,,5513.7453294,267.181321232094
+Cricket Nets,Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,16,{823CCCC3-3EB4-459C-852B-E8A3AACDC0A9},,,,,,251.94882192,89.1894396731038
+Rugby 5,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,17,{60102F46-E6E2-4A8C-9427-AB636CE3B2B1},,,,,,2144.33415692,189.613697639495
+Rugby 4,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,18,{24ED2AE1-8C67-40BC-921F-94C81316405D},,,,,,2144.33067103,189.613551114438
+Rugby 6,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,19,{730C3B72-D4F1-4295-82B5-FF6F99EDC09A},,,,,,2144.33001514,189.613553677833
+Football 1,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,20,{B36E5803-14BC-4FCE-A7EA-39D4B4158651},,,,,,2647.74322853,210.698534122876
+Football 3,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,21,{121306F6-410A-43F5-84D2-80D8544EBC9F},,,,,,1691.250564405,168.394340286048
+Football 4,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,22,{0D4FAC8B-79AD-48E5-9FF2-075EE228C4A1},,,,,,1691.250037915,168.394345494009
+Football 5,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,23,{B1B7F13D-6C49-4232-8419-5FF306453A9B},,,,,,1691.25000641,168.394335268454
+Football 6,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,24,{3EFE0F11-CBF8-4D21-A53D-3EF6D659FB39},,,,,,1691.250564405,168.394340285558
+Rugby 3,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,25,{A1F6947E-38E0-4D2B-80A7-85D51968E592},,,,,,8302.08882289,381.86414677724
+Rugby 2,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,26,{7AD00AA7-D66E-4A0A-8F66-9666D75F297D},,,,,,8302.08882289,381.864146777697
+Rugby 1,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,27,{012FBD7E-9DFD-4D92-8300-863020FCD42D},,,,,,8302.083312245,381.864015577054
+Rugby 9,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,28,{7DE79165-780F-48E7-839A-F90695C30F20},,,,,,1643.14461195,172.193072597369
+Rugby 8,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,29,{C23759C6-40EA-440F-9570-9C3FF113D7D5},,,,,,1643.141203105,172.192888174126
+Rugby 7,Trentham Memorial Park,Winter,Rugby,Trentham Memorial Park - Winter,No,30,{33B0E760-B8E1-4ACB-8EA4-13D9D7759ABC},,,,,,1643.141203105,172.192888174401
+Summer Football,Trentham Memorial Park,Summer,Multiple Uses,Trentham Memorial Park - Summer,No,31,{1E8ED4ED-984D-4821-A1E3-A5079D4458A5},,,,LCARTER,2023/11/22 22:33:26+00,9974.51105628,400.465028391975
+Football 7,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,32,{6FDA443F-ED51-448F-95B7-16B2B8CB96BF},,,,,,6539.61476646,331.130844471801
+Football (Junior),Heretaunga Park,Winter,Football,Heretaunga Park - Winter,No,33,{B1213A2C-6D8D-4925-BDF8-134E5B6D2A3E},,,,,,2647.744002655,210.698534582771
+Football 1 (Junior),Oxford Park,Winter,Football,Oxford Park - Winter,No,34,{072197BB-126F-4DA1-8841-15A878D13CDC},,,,LCARTER,2023/10/26 02:29:11+00,1618.244950435,164.719811983659
+Football 2,Trentham Memorial Park,Winter,Football,Trentham Memorial Park - Winter,No,35,{F36FB3DA-5B98-4CD8-9436-885ED8D1A19E},,,,,,2647.74261516,210.698509933945
+Football 2 (Junior),Oxford Park,Winter,Football,Oxford Park - Winter,No,36,{04313CA1-3B12-4F2E-A7BC-C1A5E9048C3B},,,,LCARTER,2023/10/26 02:29:11+00,1618.247603295,164.719921760979
+Rugby 5,Māoribank Park,Winter,Rugby,Māoribank Park - Winter,No,37,{77A353A9-22FB-4407-B454-9FE143B1FA91},,,,LCARTER,2023/11/22 21:05:55+00,3775.05978009,251.585471784315
+Rugby 3,Māoribank Park,Winter,Rugby,Māoribank Park - Winter,No,38,{E67B7E26-248B-4A93-8D0C-86062280D40D},,,,LCARTER,2023/11/22 21:05:55+00,1882.595665755,181.050659844633
+Rugby 2,Māoribank Park,Winter,Rugby,Māoribank Park - Winter,No,39,{6A1A65A9-4F64-4184-AF2B-83162F92385D},,,,LCARTER,2023/11/22 21:05:55+00,8066.39266886,373.612976736014
+Rugby 1,Māoribank Park,Winter,Rugby,Māoribank Park - Winter,No,40,{D25B469C-2361-4CC9-8585-A29E706B9B8E},,,,LCARTER,2023/11/22 21:05:55+00,7814.11057238,371.892142694624
+Rugby 4,Māoribank Park,Winter,Rugby,Māoribank Park - Winter,No,41,{1C286F7B-071C-46F3-B115-327CB7DF3CEC},,,,LCARTER,2023/11/22 21:05:55+00,1882.58785145,181.050347380154
+Football 1,Harcourt Park,Winter,Football,Harcourt Park - Winter,No,42,{9A36DE29-1CE5-477A-A9D0-D9620CCB62F3},,,,,,6512.69213727,330.448647380294
+Football 2,Harcourt Park,Winter,Football,Harcourt Park - Winter,No,43,{DA3C9FF2-71D4-48A2-A0CD-AD4A195472E5},,,,,,6512.685337065,330.448448203396
+Cricket 1 (Junior),Harcourt Park,Summer,Cricket,Harcourt Park - Summer,No,44,{DF3BB1F4-61C8-438B-98D0-606B64FC68E3},,,,,,4496.06210018,241.685202015775
+Cricket 2  (Junior),Harcourt Park,Summer,Cricket,Harcourt Park - Summer,No,45,{D16BCB8B-1A96-42E1-B6E9-E97AC9AD0E62},,,,,,4496.0612623,241.685185102956
+Dual Cricket 1,Whakatiki Park,Summer,Cricket,Whakatiki Park - Summer,No,46,{4EFFD689-B533-4945-9650-085E4B3D8513},,,,,,3457.043728275,211.92703853138
+Dual Cricket 2,Whakatiki Park,Summer,Cricket,Whakatiki Park - Summer,No,47,{4704051E-BA6E-4D40-8A3B-3618E341ADC1},,,,,,3457.043728275,211.92703853138
+Cricket 3 (Junior),Trentham Memorial Park,Summer,Cricket,Trentham Memorial Park - Summer,No,48,{7560B7D7-43BF-44D9-A334-32BAD967AE03},,,,LCARTER,2023/10/26 02:29:45+00,3497.597802125,210.845842544316
+Softball 1,Whakatiki Park,Summer,Softball,Whakatiki Park - Summer,No,49,{DD964AF6-6105-4B5D-AA56-02B88FC09E21},,,,,,3062.453355785,217.151182819276
+Softball 2,Whakatiki Park,Summer,Softball,Whakatiki Park - Summer,No,50,{5F04EC7D-46B0-4858-8270-8E4D0910A4EC},,,,,,3062.45382129,217.151166328954
+Petanque,Maidstone Park,All Year,Petanque,Maidstone Park - All Year,No,51,{5F36F135-A3A0-4049-8CE0-90E073461E74},,,,,,592.56125053,108.553433786586
+Entire Park Area,Whakatiki Park,Winter,Multiple Uses,Whakatiki Park - Winter,Yes,52,{D4592BE9-D6B2-490A-9BCE-B2B5C02B9A7C},,,,LCARTER,2023/11/22 22:33:26+00,54992.946100035,1227.86645644232
+North Field,Awa Kairangi Park,All Year,Multiple Uses,Awa Kairangi Park - All Year,No,53,{80D0E7CC-5466-4FDB-AB70-9AE7EA66AA6A},,,,LCARTER,2024/03/15 01:44:51+00,40002.757351455,921.344969667604
+Entire Reserve Area,Karapoti Reserve,All Year,Multiple Uses,Karapoti Reserve - All Year,Yes,54,{3B2024A3-1CE7-4EC7-AA96-37A1369EBE6F},,,,LCARTER,2023/11/22 22:33:26+00,16429.64947078,739.762485192588
+Entire Park Area,Timberlea Park,All Year,Multiple Uses,Timberlea Park - All Year,Yes,55,{925A9BEB-E95B-4AE1-A68E-0BB4CADC7F50},,,,LCARTER,2023/11/22 22:33:26+00,33662.12236574,708.862450710371
+Entire Park Area,California Park,All Year,Multiple Uses,California Park - All Year,Yes,56,{F4BE22EA-359F-496D-AEEC-52C47C45AA14},,,,LCARTER,2023/11/22 22:33:26+00,43138.657437335,865.409639871654
+Entire Park Area,Savage Park,All Year,Multiple Uses,Savage Park - All Year,Yes,57,{38326172-0663-4F35-B2FC-ABCB46452747},,,,LCARTER,2023/11/22 22:33:26+00,5186.42400484,356.889968587268
+Entire Park Area,Moonshine Park,All Year,Multiple Uses,Moonshine Park - All Year,Yes,58,{94076742-FB7D-4EF8-A194-0E46586DA8D8},,,,LCARTER,2023/11/22 22:33:26+00,113928.07068629,2416.69600869107
+Entire Park Area,Silverstream Park,All Year,Multiple Uses,Silverstream Park - All Year,Yes,59,{1D51F287-BB4F-4A2D-AF9F-E5543C339428},,,,LCARTER,2023/11/22 22:33:26+00,5496.432847145,345.501617226554
+Entire Park Area,Riverbank Park,All Year,Multiple Uses,Riverbank Park - All Year,Yes,60,{307F51FA-B4D9-4188-A415-2F49893DD289},,,,LCARTER,2023/11/22 22:33:26+00,6975.42591688,402.38340101693
+Entire Park Area,Moehau Park,All Year,Multiple Uses,Moehau Park - All Year,Yes,61,{A0A7A9FA-F86A-4C71-8679-95AECC165DEC},,,,LCARTER,2023/11/22 22:33:26+00,31859.967074455,971.499447409927
+Entire Park Area,Ngāti Tama Park,All Year,Multiple Uses,Ngāti Tama Park - All Year,Yes,62,{6F0CB7CB-F2D2-47D4-B46F-AD08A464134B},,,,LCARTER,2023/11/22 22:33:26+00,46428.584544655,896.909992992199
+Stage Area,Harcourt Park,All Year,Multiple Uses,Harcourt Park - All Year,No,71,{CA30C7B4-F291-48EC-BB32-D14CB5D0DDAD},,,,LCARTER,2023/11/22 22:33:26+00,2351.53863517,173.465888976699
+Stage,Harcourt Park,All Year,Multiple Uses,Harcourt Park - All Year,No,74,{AB0931AA-4A62-4643-9FEA-FAB360B0E4A6},,,,LCARTER,2023/11/22 22:33:26+00,242.98258533,62.0908420766872
+Symbol - All Year,,All Year,Multiple Uses,,No,85,{8002C986-8F3F-4A49-A71C-6F42D3FC275A},,LCARTER,2023/11/02 22:37:06+00,LCARTER,2023/11/22 22:33:26+00,,
+South Field,Awa Kairangi Park,All Year,Multiple Uses,Awa Kairangi Park - All Year,No,88,{80EA9D18-FAA6-4F09-904C-6FE70BDA4041},,LCARTER,2024/02/14 05:01:30+00,LCARTER,2024/03/15 01:44:51+00,52893.13677041,991.659140449862
+Tennis Court 4,Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,90,{448A71F6-CEE6-4535-B51F-432BABA99FC1},,LCARTER,2025/07/21 04:02:57+00,LCARTER,2025/07/21 04:16:38+00,260.935007445,69.0325066123089
+Tennis Court 3,Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,91,{837295BC-835D-4EAE-8247-A5D1352EA6ED},,LCARTER,2025/07/21 04:02:57+00,LCARTER,2025/07/21 04:16:38+00,260.935007445,69.0325066123089
+Tennis Court 2,Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,92,{2685ED15-EBB5-4B6E-9559-33A07F713E0A},,LCARTER,2025/07/21 04:02:57+00,LCARTER,2025/07/21 04:16:38+00,260.935007445,69.0325066123089
+Tennis Court 1,Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,93,{7A067D94-DD10-4C33-9D75-B51B34BB7D6D},,LCARTER,2025/07/21 04:02:57+00,LCARTER,2025/07/21 04:02:57+00,260.935007445,69.0325066123089
+Lights (Tennis Courts 3 and 4),Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,99,{DF1CFED2-A630-48E9-ACA2-5C997ADD8BE7},,LCARTER,2025/07/21 06:42:51+00,LCARTER,2025/07/21 07:54:42+00,976.86473032,125.39220342907
+Lights (Tennis Courts 1 and 2),Maidstone Park,All Year,Tennis,Maidstone Park - All Year,No,100,{33CF62DA-DA47-41E5-88EB-CA57406876B6},,LCARTER,2025/07/21 06:58:45+00,LCARTER,2025/07/21 07:54:42+00,976.86473032,125.39220342907

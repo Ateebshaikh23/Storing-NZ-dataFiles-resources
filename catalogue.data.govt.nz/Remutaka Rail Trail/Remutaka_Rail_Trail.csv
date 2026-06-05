@@ -1,0 +1,16 @@
+﻿Location,Main_Track,Track_Name,Road_Name,Road_Section,Surface,Use_,Difficulty,OBJECTID,WIDTH_M_,Distance,Source,WalkTime,RideTime,PrimaryUse,GlobalID,created_user,created_date,last_edited_user,last_edited_date,ShapeSTLength
+Tunnel Gully,Remutaka Rail Trail,Tunnel Drive,,,Sealed Path,Multi,Easy,14,,,Tracks.org.nz,,,Walk & Biking,{CB580571-4B9E-4277-B22F-57379445652D},,,,,1325.28459128408
+Pākuratahi Forest,Remutaka Rail Trail,Station Drive,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,31,,,NtrailZ,,,Biking,{287B93A0-8FBA-4EE4-B354-5815C38498B5},,,,,2638.08668146173
+Pākuratahi Forest,Remutaka Rail Trail,,Incline Road (Private),,Gravel/Dirt Road,Multi (4WD),Moderate,41,,,TrailForks,,,Biking,{2FE0B2B5-77A8-448E-816E-88F3F3AD16A0},,,,,17257.4989791895
+Pākuratahi Forest,Remutaka Rail Trail,Station Drive,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,77,,,NtrailZ,,,Biking,{6D87A1C1-2243-4BB7-9AB3-66D67980D876},,,,,531.024256660743
+Kaitoke,Remutaka Rail Trail,,Kaitoke Loop Road,,Sealed Road,,,394,,,,,,,{69CE9DDD-29B8-410D-9206-D1E1C814F1D5},,,,,774.072365263716
+Kaitoke,Remutaka Rail Trail,,Incline Road,,Sealed Road,,,395,,,,,,,{C67F43DE-ECAF-4D96-89FC-FFBB5DDA7DB5},,,,,1651.73539532921
+Te Marua,Remutaka Rail Trail,,Plateau Road, from SH2 to Maymorn Road,Sealed Road,,,400,,,,,,,{C9EFFC4C-9AC3-444E-9023-4E37341A20AD},,,,,255.321213894397
+Maymorn,Remutaka Rail Trail,,Maymorn Road,,Sealed Road,,,401,,,,,,,{3D43F968-4A6D-48EC-91DB-DC6AAA16F78C},,,,,1314.55443973091
+Maymorn,Remutaka Rail Trail,,Parkes Line Road,,Sealed Road,,,402,,,,,,,{80E29B30-BE6C-4112-BF98-A71A394E864C},,,,,178.016295850201
+Te Marua,Remutaka Rail Trail,,Beechwood Lane,,Sealed Road,,,403,,,,,,,{05AE8E3A-3374-41D6-A90E-66FB587244A1},,,,,171.787221014027
+Te Marua,Remutaka Rail Trail,,Maymorn Road,,Sealed Road,,,404,,,,,,,{8033047D-B860-4DD2-B64F-0039F284B89C},,,,,553.333471461397
+Te Marua,Remutaka Rail Trail,,,,Sealed Path,,,405,,,,,,,{B5897C33-2A90-4220-BFA0-E7804804AE24},,,,,43.3251992965735
+Te Marua,Remutaka Rail Trail,,Beechwood Lane, underpass,Sealed Path,,,406,,,,,,,{77E1D44E-B4C0-4BC0-86E7-79A83BB3799B},,,,,60.5186148854626
+Te Marua,Remutaka Rail Trail,,SH2, from Beechwood Lane to Plateau Road,Sealed Path,,,407,,,,,,,{A3601466-4930-4284-815D-79417D19A3BF},,,,,107.546355117966
+Tunnel Gully,Remutaka Rail Trail,Mangaroa Tunnel,,,Sealed Path,Multi,Easy,408,,,Tracks.org.nz,,,Walk & Biking,{6CD8D43D-7F7F-4F7C-8041-F9083193082D},,,,,209.192487527086

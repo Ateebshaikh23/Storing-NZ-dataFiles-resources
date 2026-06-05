@@ -1,0 +1,12 @@
+﻿Location,Main_Track,Track_Name,Road_Name,Road_Section,Surface,Use_,Difficulty,OBJECTID,WIDTH_M_,Distance,Source,WalkTime,RideTime,PrimaryUse,GlobalID,created_user,created_date,last_edited_user,last_edited_date,ShapeSTLength
+Akatarawa Forest,Karapoti Classic,Karapoti Gorge,,,Gravel/Natural Trail,Multi,Moderate,3,,,"UHCC
+",,,Biking,{7541189D-CE3A-44C5-9F25-C017E5EBB4DD},,,CSPENCE,2025/10/06 00:16:04+00,4156.51302724184
+Akatarawa Forest,Karapoti Classic,Hukinga Clearing,,,Gravel/Dirt Road,Multi (4WD Forestry),Easy,52,,,TrailForks,,,Biking,{521BE70B-731A-46B3-A92E-FBC5BDF4DEBB},,,,,1456.13724554541
+Akatarawa Forest,Karapoti Classic,Pram Track,,,Gravel/Dirt Road,Multi (4WD),Moderate,53,,,Karapoti Classic & TrailForks,,,Biking,{3143CEC9-A46A-4A29-9B27-3B351368EF90},,,,,4744.52982117241
+Akatarawa Forest,Karapoti Classic,Dopers,,,Gravel/Natural Trail,Multi,Hard,54,,,Karapoti Classic & TrailForks,,,Biking,{18BBF2BF-1DE0-48B1-BC51-4D7E8034F539},,,,,2689.13860425686
+Akatarawa Forest,Karapoti Classic,Titi,Titi Road,,Gravel/Natural Trail,Multi,Moderate,57,,,Karapoti Classic & TrailForks,,,Biking,{6319A6CD-218F-4EFD-990D-83A1D3910CA6},,,,,5270.78319942515
+Akatarawa Forest,Karapoti Classic,Devils Staircase,,,Gravel/Natural Trail,Biking,Expert,58,,,Karapoti Classic & TrailForks,,,Biking (Uphill),{6D73E7D7-DBF5-4A61-9623-DB1218642DD4},,,CSPENCE,2025/10/06 00:16:04+00,1570.9886716335
+Akatarawa Forest,Karapoti Classic,Rock Garden,,,Gravel/Natural Trail,Biking,Expert,59,,,Karapoti Classic & TrailForks,,,Biking (Downhill),{2FEDEC6A-1B68-4474-BC67-265ACB5C5B02},,,CSPENCE,2025/10/06 00:16:04+00,1437.81636890068
+Akatarawa Forest,Karapoti Classic,Deadwood,,,Gravel/Dirt Road,Multi (4WD),Hard,60,,,Karapoti Classic & TrailForks,,,Biking,{58F54202-6D46-4F3F-AE0E-9F8AAA40F35C},,,,,7167.42030574595
+Akatarawa Forest,Karapoti Classic,Warm Up Climb,Hukinga Road,,Gravel/Dirt Road,Multi (4WD),Hard,61,,,Karapoti Classic & TrailForks,,,Biking,{D687FAA6-8373-4E9A-B1D6-2742C7B522B1},,,,,4866.8428801988
+Akatarawa Forest,Karapoti Classic,Big Ring Boulevard,Whakatikei Road,,Gravel/Natural Trail,Biking,Moderate,65,,,GWRC & TrailForks,,,Biking (Downhill),{39A81C09-5542-42F0-ACA5-76824B8B2EAF},,,,,4929.67398267334

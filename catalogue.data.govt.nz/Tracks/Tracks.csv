@@ -1,0 +1,440 @@
+﻿Location,Main_Track,Track_Name,Road_Name,Road_Section,Surface,Use_,Difficulty,OBJECTID,WIDTH_M_,Distance,Source,WalkTime,RideTime,PrimaryUse,GlobalID,created_user,created_date,last_edited_user,last_edited_date,ShapeSTLength
+Keith George Memorial Park,Trig and North Ridge Loop,Trig Track,,,Gravel/Natural Trail,Walking,Moderate - Hard,1,,,UHCC,,,Walking,{B29C2D38-477C-4B4E-B79D-721624613B36},,,CSPENCE,2025/10/06 00:40:37+00,1155.15299952159
+Pinehaven Reserve,,,,,Gravel/Natural Trail,Multi,Easy,2,,,UHCC,,,Walking,{33805FD0-4C98-42F7-A999-DA4CB7999D52},,,CSPENCE,2025/10/01 03:58:13+00,318.846211407485
+Akatarawa Forest,Karapoti Classic,Karapoti Gorge,,,Gravel/Natural Trail,Multi,Moderate,3,,,"UHCC
+",,,Biking,{7541189D-CE3A-44C5-9F25-C017E5EBB4DD},,,CSPENCE,2025/10/06 00:16:04+00,4156.51302724184
+Keith George Memorial Park,,Loop Track,,,Gravel/Natural Trail,Walking,Easy,4,,,UHCC,,,Walking,{B9BA371E-6590-4772-B49F-E450403E7D76},,,,,547.088152429077
+Keith George Memorial Park,Trig and North Ridge Loop,Trig Track,,,Gravel/Natural Trail,Walking,Easy,5,,,UHCC,,,Walking,{C8F361EC-3C6F-44D5-8D6F-225A169D4677},,,,,333.249094756625
+Keith George Memorial Park,,Pylon Access Track,,,Gravel/Natural Trail,Walking,Hard,6,,,UHCC,,,Walking,{025BFFA1-DABB-4CF4-AC5C-638EA0083540},,,CSPENCE,2025/10/06 00:40:37+00,2699.41233490486
+Akatarawa Forest,,Cannon Point Walkway,,,Gravel/Natural Trail,Multi,Moderate,7,,,UHCC,,,Walking,{1B3A470C-EBB5-46AF-A40A-966743D3E0C9},,,,,3541.59200199868
+Kaitoke Regional Park,,Loop Walk,,,Gravel/Natural Trail,Walking,Easy,8,,,GWRC & UHCC,,,Walking,{43DFDD14-2E5D-4B6A-A6F7-E3D3D215CD51},,,,,213.175699215126
+Kaitoke Regional Park,,The Terrace Walk,,,Gravel/Natural Trail,Walking,Easy,9,,,UHCC,,,Walking,{438642F0-FD10-4D31-BCC8-BCDF66885544},,,,,427.080701518106
+Kaitoke Regional Park,Nortbett Creek Loop,Pākuratahi River Walk,,,Gravel/Natural Trail,Walking,Easy,10,,,GWRC & UHCC,,,Walking,{5EF6A34C-B052-457B-A998-9174A49289C5},,,,,1217.92094177458
+Kaitoke Regional Park,,Ridge Track,,,Gravel/Natural Trail,Walking,Moderate - Hard,11,,,GWRC & UHCC,,,Walking,{35B4BBD9-90B8-4CB6-8A66-22F86CE1D736},,,,,7042.43072045869
+Kaitoke Regional Park,,Weir Walk,,,Sealed Path,Walking,Easy,12,,,GWRC,,,Walking,{27BA7226-3FEE-423D-862A-89457A65C61C},,,,,682.440894458142
+Pākuratahi Forest,,Mt Climie,,,Gravel/Dirt Road,Multi,Hard,13,,,UHCC,,,4WD,{5A5C556F-2009-494D-8586-BB5840DED4E5},,,,,5871.83903411618
+Tunnel Gully,Remutaka Rail Trail,Tunnel Drive,,,Sealed Path,Multi,Easy,14,,,Tracks.org.nz,,,Walk & Biking,{CB580571-4B9E-4277-B22F-57379445652D},,,,,1325.28459128408
+Tunnel Gully,,Pondy Loop,,,Gravel/Natural Trail,Multi,Moderate,15,,,Tracks.org.nz & NtrailZ & UHCC,,,Biking,{9A68ECEC-1419-4AD0-99EB-B74766B78E3E},,,,,1208.15212598904
+Tunnel Gully,,Mount Climie Steep Track,,,Natural Path,Multi,Hard,16,,,Tracks.org.nz & UHCC,,,Walking & Biking,{50747409-5477-441B-8303-4426820962D0},,,CSPENCE,2025/09/26 01:56:10+00,671.342867221904
+Tunnel Gully,Tunnel Gully Loop,Wide Open,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,17,,,NtrailZ & UHCC,,,Biking,{7C377D8A-C81F-43CF-A448-FC256335A8FE},,,,,932.31735402152
+Tunnel Gully,,Tane's Track,,,Gravel/Natural Trail,Multi,Moderate - Hard,18,,,UHCC,,,Walking & Biking,{AC96E8AB-E3F4-4206-9972-B09873987D25},,,,,2344.31536412629
+Silverstream Spur,,Goodwin Drive,,,Gravel/Natural Trail,Multi,Moderate,19,,,TrailForks,,,Walking & Biking,{31631901-26FE-4FCF-9C65-E422FFFDB5B1},,,,,709.661286366491
+Pākuratahi Forest,,Station Link,,,Gravel/Natural Trail,Multi,Easy,22,,,NtrailZ,,,Biking,{64B17A2A-A374-4160-8022-DB41EA1B41FD},,,,,770.915379208148
+Pākuratahi Forest,,2 Bee Line,,,Gravel/Dirt Road,Multi (4WD),Moderate,23,,,NtrailZ,,,Biking,{5B6D40A9-6D45-4384-AE86-B6C171E50C05},,,,,1126.46317059216
+Pākuratahi Forest,,Bee Line,,,Gravel/Natural Trail,Biking,Moderate,24,,,NtrailZ,,,Biking,{451FEAEE-20F5-4042-A008-4BB297A4796B},,,,,380.097570807553
+Pākuratahi Forest,,Bees to Bridge,,,Gravel/Natural Trail,Multi,Moderate,25,,,NtrailZ,,,Biking,{56CE4666-F1A0-4C3F-86D6-33FD59F92343},,,,,478.463631521251
+Pākuratahi Forest,,G-Drop,,,Gravel/Natural Trail,Biking,Moderate,26,,,NtrailZ,,,Biking,{9BDF212C-9E34-4BE4-8A9F-BFF375E26B18},,,,,331.34895674312
+Pākuratahi Forest,,Taniwha,,,Gravel/Natural Trail,Biking,Moderate,27,,,NtrailZ,,,Biking,{52D95045-27DE-44A6-9572-9D04F882C606},,,,,1084.85535852604
+Tunnel Gully,,Brazilian,,,Gravel/Natural Trail,Biking,Expert,28,,,NtrailZ,,,Biking,{3FB584BD-B2F5-47CD-B64C-72F046C722C3},,,,,453.50811448004
+Tunnel Gully,,Horse Track,,,Gravel/Natural Trail,Multi,Moderate,29,,,NtrailZ,,,Biking,{FBF43DF9-1B7F-48A0-94AD-35EA25854ED9},,,,,471.319347631398
+Tunnel Gully,,Flat Out,,,Gravel/Natural Trail,Multi,Moderate,30,,,NtrailZ,,,Biking,{81F5E85D-EA58-488C-9BDA-DDBF5C430CCB},,,,,608.899775044495
+Pākuratahi Forest,Remutaka Rail Trail,Station Drive,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,31,,,NtrailZ,,,Biking,{287B93A0-8FBA-4EE4-B354-5815C38498B5},,,,,2638.08668146173
+Pākuratahi Forest,,Goat Rock Drive,,,Gravel/Dirt Road,Multi (4WD),Moderate,32,,,NtrailZ,,,Biking,{2E5FF899-61A8-49FD-9AC6-76F2B42DF0F7},,,,,5059.53596088989
+Keith George Memorial Park,,St Pats Up,,,Gravel/Natural Trail,Multi (4WD),Moderate,33,,,TrailForks,,,Biking,{7F448FC1-40AC-42A9-AD03-E61719DE857F},,,CSPENCE,2025/10/06 00:40:37+00,1810.59972351508
+Keith George Memorial Park,,Popeye,,,Gravel/Natural Trail,Biking,Expert,34,,,TrailForks,,,Biking,{F58C5735-A4EB-4285-BB81-98D721442D80},,,CSPENCE,2025/10/06 00:40:37+00,431.021740551306
+Akatarawa Forest,,,Valley View Road, from Totara Park Bridge to Cannon Point,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,35,,,NtrailZ,,,Biking,{77DB0F1D-6E2F-4DA8-A8A0-7526BE6E56F1},,,CSPENCE,2025/09/26 02:23:37+00,4712.85710748003
+Akatarawa Forest,,,Cannon Point Road,,Gravel/Natural Trail,Multi,Moderate,36,,,NtrailZ,,,Biking,{5793A557-E469-441A-AB24-914528E343DE},,,CSPENCE,2025/09/26 02:22:52+00,2270.66371394775
+Akatarawa Forest,,Cannon Point Walkway,,,Gravel/Natural Trail,Multi,Moderate,37,,,NtrailZ,,,Walking & Biking,{E93894BD-4D6A-41E6-8FDE-1880001506BD},,,,,903.690655370248
+Akatarawa Forest,,Three Skulls,,,Gravel/Natural Trail,Biking,Moderate,38,,,NtrailZ,,,Biking,{9CC39823-AA7F-47BB-8176-C8C1767B4375},,,,,366.350344675386
+Akatarawa Forest,,,Valley View Road, from Cannon Point to Airstrip Drive,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,40,,,NtrailZ,,,Biking,{A6513026-FEEB-412B-906D-9472C4FEE606},,,,,2067.16194368148
+Pākuratahi Forest,Remutaka Rail Trail,,Incline Road (Private),,Gravel/Dirt Road,Multi (4WD),Moderate,41,,,TrailForks,,,Biking,{2FE0B2B5-77A8-448E-816E-88F3F3AD16A0},,,CSPENCE,2025/10/06 03:42:58+00,17264.1340847762
+Pākuratahi Forest,,Dela Rosa,,,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,42,,,TrailForks,,,Biking,{0A111142-5BE2-4B3F-8C13-01B4AE99429A},,,,,4470.98079079551
+Pākuratahi Forest,,Back Road,,,Gravel/Dirt Road,Multi (4WD),Moderate,43,,,TrailForks,,,Biking,{04A696F2-CE3A-43FF-A4A6-30D1FDF76F43},,,CSPENCE,2025/10/06 01:20:26+00,3032.59980452234
+Kaitoke Regional Park,,Pylon Loop Track / Kaitoke Pines,,,Gravel/Dirt Road,Multi,Moderate,44,,,GWRC & TrailForks,,,Walking & Biking,{19F19AE7-CF1D-4C91-AF70-5270C113AFDB},,,,,1336.10511400811
+Kaitoke Regional Park,,Kaitoke Hill Track / Kaitoke Coaster,,,Gravel/Dirt Road,Multi (4WD),Moderate,45,,,GWRC & TrailForks,,,Walking,{0F4FCF38-2CB1-4B4C-8BFC-AE8EE11AEA23},,,,,1327.63448124007
+Kaitoke Regional Park,,Keith Spry Path,,,Sealed Path,Walking,Easy,46,,,GWRC,,,Walking,{E40F72D5-9A61-4A4B-B4A5-25B342EDB04C},,,,,46.9784653172614
+Kaitoke Regional Park,Nortbett Creek Loop,Nortbett Creek Route,,,Gravel/Natural Trail,Walking,Moderate,47,,,GWRC & UHCC,,,Walking,{53AEEECD-B5FB-4E96-9506-7F39C205FFEA},,,,,1565.47892045283
+Akatarawa Forest,Karapoti Challenge,,Airstrip Drive, from Valley View Road to Woolshed Road,Gravel/Dirt Road,Multi (4WD Forestry),Easy - Moderate,48,,,TrailForks,,,Biking,{A3C92E80-B0AC-4C34-9EF6-A38F7E177697},,,,,771.171371244636
+Akatarawa Forest,Karapoti Challenge,,Woolshed Road,,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,49,,,TrailForks,,,Biking,{2C178963-7DE5-4AF0-8250-8DB481580289},,,,,2617.51171135928
+Akatarawa Forest,Karapoti Challenge,,Valley View Road, from Woolshed Road to Airstrip Drive,Gravel/Dirt Road,Multi (4WD Forestry),Moderate - Hard,50,,,TrailForks,,,Biking,{71CA711B-967D-4717-86F0-515E8F5501D7},,,,,3111.54636656637
+Akatarawa Forest,Karapoti Challenge,McGhies,,,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,51,,,TrailForks,,,Biking,{2B5A916A-5481-4EF9-B674-97859D8F3C70},,,,,1990.34886570089
+Akatarawa Forest,Karapoti Classic,Hukinga Clearing,,,Gravel/Dirt Road,Multi (4WD Forestry),Easy,52,,,TrailForks,,,Biking,{521BE70B-731A-46B3-A92E-FBC5BDF4DEBB},,,,,1456.13724554541
+Akatarawa Forest,Karapoti Classic,Pram Track,,,Gravel/Dirt Road,Multi (4WD),Moderate,53,,,Karapoti Classic & TrailForks,,,Biking,{3143CEC9-A46A-4A29-9B27-3B351368EF90},,,,,4744.52982117241
+Akatarawa Forest,Karapoti Classic,Dopers,,,Gravel/Natural Trail,Multi,Hard,54,,,Karapoti Classic & TrailForks,,,Biking,{18BBF2BF-1DE0-48B1-BC51-4D7E8034F539},,,,,2689.13860425686
+Akatarawa Forest,,Norm's Crossing,,,Gravel/Natural Trail,Multi,Easy,55,,,Karapoti Classic & TrailForks,,,Biking,{AF5E310B-2A7C-44F9-921B-5E7510AF9C2D},,,,,1370.56011548772
+Akatarawa Forest,,,Hydro Valley Road,,Gravel/Natural Trail,Multi,Moderate,56,,,Karapoti Classic & TrailForks,,,Biking,{9ABA4085-7C90-4DD5-9D91-0891E567DA1A},,,,,4003.12556367594
+Akatarawa Forest,Karapoti Classic,Titi,Titi Road,,Gravel/Natural Trail,Multi,Moderate,57,,,Karapoti Classic & TrailForks,,,Biking,{6319A6CD-218F-4EFD-990D-83A1D3910CA6},,,,,5270.78319942515
+Akatarawa Forest,Karapoti Classic,Devils Staircase,,,Gravel/Natural Trail,Biking,Expert,58,,,Karapoti Classic & TrailForks,,,Biking (Uphill),{6D73E7D7-DBF5-4A61-9623-DB1218642DD4},,,CSPENCE,2025/10/06 00:16:04+00,1570.9886716335
+Akatarawa Forest,Karapoti Classic,Rock Garden,,,Gravel/Natural Trail,Biking,Expert,59,,,Karapoti Classic & TrailForks,,,Biking (Downhill),{2FEDEC6A-1B68-4474-BC67-265ACB5C5B02},,,CSPENCE,2025/10/06 00:16:04+00,1437.81636890068
+Akatarawa Forest,Karapoti Classic,Deadwood,,,Gravel/Dirt Road,Multi (4WD),Hard,60,,,Karapoti Classic & TrailForks,,,Biking,{58F54202-6D46-4F3F-AE0E-9F8AAA40F35C},,,,,7167.42030574595
+Akatarawa Forest,Karapoti Classic,Warm Up Climb,Hukinga Road,,Gravel/Dirt Road,Multi (4WD),Hard,61,,,Karapoti Classic & TrailForks,,,Biking,{D687FAA6-8373-4E9A-B1D6-2742C7B522B1},,,,,4866.8428801988
+Kaitoke Regional Park,,Kaitoke Hill Track,,,Gravel/Dirt Road,Walking,Moderate,62,,,GWRC & TrailForks,,,Walking,{914CD3D6-FC3C-415E-BE8F-09A1D9489556},,,,,735.69327213837
+Kaitoke Regional Park,,Kaitoke Hill Track / Kaitoke Pylon,,,Gravel/Dirt Road,Multi,Moderate,63,,,GWRC & TrailForks,,,Walking,{97706701-F032-458E-BCA3-B407EBC2520F},,,,,785.796917034967
+Kaitoke Regional Park,,Macaskill Lookout,,,Gravel/Natural Trail,Multi,Easy,64,,,TrailForks,,,Walking & Biking,{5FC4731B-7173-4E04-99BA-2B712CCDAB0F},,,CSPENCE,2025/10/01 04:29:14+00,522.994871607687
+Akatarawa Forest,Karapoti Classic,Big Ring Boulevard,Whakatikei Road,,Gravel/Natural Trail,Biking,Moderate,65,,,GWRC & TrailForks,,,Biking (Downhill),{39A81C09-5542-42F0-ACA5-76824B8B2EAF},,,,,4929.67398267334
+Akatarawa Forest,,Boobies,,,Gravel/Natural Trail,Biking,Expert,66,,,TrailForks,,,Biking (Downhill),{5D683638-7034-46A3-B46E-32FA0BB0193F},,,CSPENCE,2025/10/06 00:16:04+00,3376.26497605591
+Wī Tako Ngātata Scenic Reserve,,Wī Tako Ngātata Scenic Reserve Track,,,Gravel/Natural Trail,Walking & Biking,Moderate,67,,,Tracks.org.nz,,,Walking & Biking,{953879BE-635B-449C-BE4D-5129A03E3AB0},,,,,1832.69945475259
+Riverstone Terraces,,,,,REVIEW - Natural Path,Multi,Easy - Moderate,68,,,UHCC,,,Walking & Biking,{C8E3831A-9546-4878-8FC1-0A5EFFF4C93E},,,CSPENCE,2025/10/06 04:18:38+00,1322.94822263523
+Akatarawa Forest,,Scooters/Pylon 18,,,Gravel/Dirt Road,Multi (4WD Forestry),Moderate,71,,,GWRC,,,Walking,{0C4DAAF3-606B-49B6-AF0A-C27C9A1DF990},,,,,1145.47819585277
+Kaitoke Regional Park,,Escape Route,,,Gravel/Natural Trail,Walking,Moderate,72,,,LINZ,,,Walking,{22F03FE8-481C-4DEA-A5FA-917C1AF5F524},,,,,1395.08349183957
+Ecclesfield Reserve,,Rangi's Track,,,Gravel/Natural Trail,Walking & Biking,Easy - Moderate,73,,,UHCC,,,Walking,{3F4C506E-205D-4C26-BCC2-EDCF85181D92},,,,,755.440069528432
+Ecclesfield Reserve,,Lancewood Steps,,,Gravel/Natural Trail,Walking,Easy - Moderate,74,,,UHCC,,,Walking,{F2C2C783-A4BE-4682-AC7D-14DE7A199EC9},,,,,19.5494915577198
+Ecclesfield Reserve,,Manuka Track,,,Gravel/Natural Trail,Walking,Easy - Moderate,75,,,UHCC,,,Walking,{CE3655A4-48DD-4F90-88E2-C4C4A5C3A8A5},,,,,261.098439469531
+Ecclesfield Reserve,,Link Track,,,Gravel/Natural Trail,Walking,Easy - Moderate,76,,,UHCC,,,Walking,{783742EC-77E8-4553-B0FE-A764AEE593CA},,,,,36.969880975644
+Pākuratahi Forest,Remutaka Rail Trail,Station Drive,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,77,,,NtrailZ,,,Biking,{6D87A1C1-2243-4BB7-9AB3-66D67980D876},,,,,531.024256660743
+Pākuratahi Forest,,Rimutaka Trig,,,Gravel/Natural Trail,Walking,Easy,78,,,UHCC & tracks.org.nz,,,Walking,{348B2355-A9CB-4CF6-9D79-11ADD6DA1AA7},,,LHEYMANNS,2025/08/28 22:42:25+00,1010.78706549826
+Kurth Crescent Reserve,,,,,Sealed Path,,,79,,,,,,,{75A3355F-F003-421D-B8A5-1AC2ED2945E9},,,,,217.025106302031
+Tapestry Grove Reserve,,,,,Sealed Path,,,80,,,,,,,{059A53D9-1E1A-4820-8FF5-17E761F9D902},,,,,155.959571199727
+Dunns Park,,,,,Sealed Path,,,81,,,,,,,{E847C303-C6AA-4E20-A9C2-6F6B0B13F05F},,,,,153.312734777797
+Pumpkin Cottage Park,,,,,Gravel Path,,,85,,,,,,,{AB66D9DB-E58C-4C3B-8FC7-0F340486A08B},,,CSPENCE,2025/09/26 00:14:16+00,560.6760729226
+Ward/Miro Green Area,,,,,Sealed Path,,,86,,,,,,,{26341D4B-2903-4B03-8D69-364A8B999C88},,,,,37.4541161116598
+Whakatiki Buffer Reserve,,,,,Gravel/Natural Trail,,,87,,,,,,,{DFC9A3E9-8BFA-4A04-B2DA-982C885F6386},,,CSPENCE,2025/10/01 03:56:00+00,331.922719249431
+Clyma Park,,,,,Sealed Path,,,88,,,,,,,{7D031124-4F55-4B0A-9FE9-AF765588BDBF},,,,,47.1298911815085
+Pine Avenue Park,,,,,Natural Path,,,90,,,,,,,{7338C620-2FD9-4A6E-A11C-165C05D37ACE},,,,,52.4351663628889
+Benge Park,,,,,Gravel Path,,,91,,,,,,,{3CFA4106-155A-448C-A3F2-557DF97C74FC},,,,,384.366811748009
+Pine Avenue Park,,,,,Sealed Path,,,92,,,,,,,{288D8205-43CB-4FD3-8B0D-D8CDB26451E1},,,,,33.3464106077305
+Māoribank Park,,,,,Sealed Path,,,93,,,,,,,{DB7D3F55-D48C-412A-8127-4654022C9BA0},,,,,44.1421272151205
+Duncraig Crescent Reserve,,,,,Sealed Path,,,94,,,,,,,{140A583D-7AAD-46F5-A3DD-F54C0C5B175D},,,,,58.8033212176409
+Dunns Park,,,,,Gravel Path,,,95,,,,,,,{A30AEE62-759F-4F75-ACAC-8609FA933BA5},,,,,342.976483929627
+Whakatiki Buffer Reserve,,,,,Sealed Path,,,96,,,,,,,{E03AF9BA-5320-442C-85E2-6845F957E03A},,,,,44.2747372787946
+Savage Park,,,,,Sealed Path,,,97,,,,,,,{1FA28E90-6580-4130-A498-6B433BA80BA4},,,,,143.991030118634
+Benge Park,,,,,Sealed Path,,,98,,,,,,,{134439F7-C6A0-4DF7-808E-392CCF7B9816},,,,,44.0711840986029
+Trentham Memorial Park,,,,,Gravel Path,,Easy,99,,,UHCC,,,,{75012FCB-6528-4CFF-9F5C-913898700EF2},,,CSPENCE,2025/09/26 00:57:01+00,96.2404153386084
+Trentham Memorial Park,,,,,Sealed Path,Walking,Easy,100,,,UHCC,,,Walking,{8D9CB4E2-4FBE-420D-84F6-72E73C96E053},,,CSPENCE,2025/10/06 00:55:55+00,2838.19871770853
+Tawai Park,,,,,Sealed Path,,,101,,,,,,,{34688E72-A4A0-4FDE-8B04-4E213A8824EA},,,,,19.4919624485529
+Grant's Bush,,,,,Gravel Path,,,102,,,,,,,{80A6A72A-275A-48B7-BDE3-E798E83D0DFC},,,LHEYMANNS,2025/08/28 22:48:58+00,319.932468358881
+Te Awa Kairangi,Hutt River Trail,,,,Sealed Path,,,104,,,UHCC,,,Walking & Biking,{86C11C8D-BCFB-4971-8BCB-9FABA884FE2F},,,,,1280.54438273187
+Birchville Picnic Area,Hutt River Trail,,,,Sealed Path,,Easy,105,,,UHCC,,,Walking & Biking,{5B8712DB-04C7-4B33-B294-C74D553917E7},,,,,20.4753452749536
+Gillespies Esplanade Reserve,,,,,Gravel Path,,,106,,,UHCC,,,Walking & Biking,{966895FE-59A9-4DDE-BF81-1BEE5EBA8F75},,,,,761.508000600843
+Brown Owl Reserve,,,,,Sealed Path,,,107,,,,,,,{375B3961-28A2-412D-B828-97E6CAE5FEB1},,,,,372.754970646826
+Awa Kairangi Park,,,,,Sealed Path,,,108,,,,,,,{E89B62CD-CF4D-4572-9F00-B103FF0FE5D2},,,,,200.095742276451
+Tulsa Park,,,,,Sealed Path,,,109,,,,,,,{C297EC53-C2E6-4151-84B6-9A75F010491F},,,,,25.6869884814059
+Ngāti Tama Park,,,,,Sealed Path,,,110,,,,,,,{02E09232-E32C-4584-B0DA-B6D81B203632},,,,,453.162960771122
+Edmund Lomas Park,,,,,Sealed Path,,,112,,,,,,,{FFF1F392-6168-4593-AFB1-29203B367059},,,,,25.8867995982583
+Te Haukāretu Park,,,,,Sealed Path,,,113,,,,,,,{2197BA31-2BBD-472B-AB62-E245B86592FB},,,,,253.482321094909
+Ngāti Tama Park,Hutt River Trail,,,,Sealed Path,,,114,,,,,,,{D9B3E880-CE21-495D-B55D-3BD3496AF37E},,,,,1013.9708402438
+Hikurangi Drainage Reserve,,,,,Sealed Path,,,115,,,,,,,{4E101C35-1A19-4CE5-BF9A-EDF5EA99692E},,,,,366.998201625295
+Speargrass Park,,,,,Sealed Path,,,116,,,,,,,{136FFFBE-EC92-42F0-8D92-8735BD5FC0E9},,,,,38.7383356995289
+Doris Nicholson Reserve,,,,,Sealed Path,,,117,,,,,,,{42CDD964-64DD-4F36-8BC4-68FBF11B1D20},,,,,63.4954261026299
+Riverstone Reserve,,,,,Gravel Path,,Easy - Moderate,118,,,UHCC,,,Walking & Biking,{6AF5AF98-549C-4C73-BA3E-97C300D424F9},,,,,453.182425853642
+Te Haukāretu Park,Hutt River Trail,,,,Sealed Path,,,119,,,UHCC,,,Walking & Biking,{758D49CA-6EF7-4747-B684-7D18CC5C3C45},,,,,812.883224146064
+Te Haukāretu Park,Hutt River Trail,,,,Gravel Path,,,120,,,UHCC,,,Walking & Biking,{C45F3D11-98D3-41AA-9D50-701E21B5724B},,,,,170.16060057773
+Ngāti Tama Park,,,,,Gravel Path,,,121,,,,,,,{D910ED20-F0D3-4743-BCFB-C9374CC93108},,,,,51.6939394731273
+Riverstone Reserve,,,,,Gravel Path,,,122,,,,,,,{DC421EFB-DB74-4F0D-98DE-C5C0F72F571B},,,,,412.81625866644
+Blackbeech Esplanade Reserve,,,,,Sealed Path,,,123,,,,,,,{5B0F84A6-74B1-43EF-8599-EB09E4D9F5C3},,,,,50.4189204631934
+Awa Kairangi Park,,,,,Gravel Path,,,124,,,,,,,{717D7474-63DD-4680-94FF-2FFB12136DFC},,,,,99.025952838228
+Awa Kairangi Park,Hutt River Trail,,,,Gravel Path,,,125,,,,,,,{8F217EA4-29A5-4F16-8ADD-E972F55198AB},,,,,35.1482079394019
+Awa Kairangi Park,Hutt River Trail,,,,Sealed Path,,,126,,,,,,,{0EED7AB9-FC62-41D3-87EE-CB2558685FFF},,,,,915.358566284876
+Te Awa Kairangi,Hutt River Trail,,,,Gravel Path,,,127,,,UHCC,,,Walking & Biking,{682561CB-FBB1-4891-A90F-C14CC22E6523},,,CSPENCE,2025/10/06 04:50:08+00,12964.4304845068
+Silverstream Amenity Reserve,,,,,Gravel Path,,,128,,,,,,,{8051AEE8-4C83-43DF-8475-8A45BE4FF508},,,,,26.7870667849392
+Heretaunga Park,,Heretaunga Stopbank Walkway,,,Gravel/Natural Trail,,,129,,,,,,,{CC9E1D4A-D6C5-4C24-8D9A-46F905597000},,,CSPENCE,2025/10/01 03:48:39+00,584.69699197968
+Trentham Memorial Park,Hutt River Trail,,,,Gravel Path,,Easy,130,,,UHCC,,,,{81D35841-605B-44F9-A002-47A7580F2C5C},,,,,173.758355613246
+Trentham Memorial Park,,,,,Natural Path,,Easy,131,,,UHCC,,,,{62B9EFD7-2266-4B90-94D6-F91B328B03A5},,,,,79.6435383737661
+Trentham Memorial Park,,Bartons Bush,,,Gravel Path,Multi,Easy,132,,,UHCC,,,Walking,{269026CF-5B27-423E-857C-0DF1123E483C},,,,,1443.33692126287
+Trentham Memorial Park,,Bartons Bush,,,Natural Path,Multi,Hard,133,,,UHCC,,,Walking,{CD9C187D-0D95-431B-8ED1-242EBE011EDE},,,CSPENCE,2025/09/26 01:01:03+00,109.795232470179
+Trentham Memorial Park,,Domain's Bush Track,,,Gravel Path,,Easy,134,,,UHCC,,,,{BD2E8160-CAD4-4BB2-871B-E02316B2F800},,,CSPENCE,2025/10/01 04:44:06+00,175.125269353894
+Trentham Memorial Park,Hutt River Trail,,,,Sealed Path,,Easy,135,,,UHCC,,,,{8064B913-A382-4F28-AA8E-B098E81AD5BF},,,,,157.646305034917
+Moonshine Park,Hutt River Trail,,,,Sealed Path,,,136,,,,,,,{F79A62B8-0884-46B8-8DC1-7DFFE5A7A2C6},,,,,1055.65046345072
+Moonshine Park,,,,,Sealed Path,,,137,,,,,,,{76537A0B-512F-4D45-A6F9-F60C3351854B},,,,,37.4704415259999
+Moonshine Park,,,,,Sealed Path,,,138,,,,,,,{7212C133-650B-4962-B914-96FBA8C77BB1},,,,,65.5774532724206
+Moonshine Park,Hutt River Trail,,,,Gravel Path,,,140,,,,,,,{08939D36-4FD8-419B-8B16-F5CC63E95E9C},,,,,222.626744136139
+Moonshine Park,,,,,Sealed Path,,,141,,,,,,,{D5EC3D62-9804-4B2D-BB0A-2923C3DC8E60},,,,,18.9206600745968
+Moonshine Park,,,,,Gravel Path,,,142,,,,,,,{3B66C7BC-DA15-4390-A19F-0FC4CE5FE637},,,,,196.965328273179
+Moehau Park,,,,,Gravel Path,,,143,,,,,,,{FC579FBE-7CAF-468D-826F-088616750E78},,,CSPENCE,2025/10/01 04:42:46+00,486.778374656986
+Moonshine Park,,Moonshine Park Stopbank Track,,,Natural Path,,,144,,,,,,,{4762F8F4-4667-4BF5-9E56-0C2452F86AE1},,,CSPENCE,2025/10/01 04:03:47+00,1144.1568728493
+Te Awa Kairangi,Hutt River Trail,,,,Natural Path,,,154,,,,,,,{4A44612E-826E-4F8A-9EA2-F698AC09968D},,,,,492.910424705727
+Riverbank Park,,,,,Sealed Path,,,155,,,,,,,{80B4BB96-AAED-4EFB-95C0-3D69F10E67C4},,,,,186.042682196302
+Harcourt Park,,,,,Sealed Path,Walking,Easy,156,,,UHCC,,,Walking,{452A3136-3AAE-4F38-990D-8E3DF2B526EB},,,CSPENCE,2025/10/01 04:27:58+00,478.460780751978
+Harcourt Park,,,,,Gravel Path,Walking,Easy,157,,,UHCC,,,Walking,{3B0073D3-191B-437E-ACCC-48F86168D5BC},,,,,579.641625567641
+Harcourt Park,,,,,Gravel/Natural Trail,Walking,Easy,158,,,UHCC,,,Walking,{180D9E5D-4C8C-4BFD-B189-52D6CA10CE73},,,CSPENCE,2025/10/01 04:27:20+00,419.379140178968
+Ngāti Tama Park,,,,,Sealed Path,,,159,,,,,,,{CF60A111-882E-4923-A3B8-DAE84736D66E},,,,,87.4949178866627
+Awa Kairangi Park,,,,,Natural Path,,,160,,,,,,,{0BB4725A-8F8F-4B39-9E0C-C34261C94417},,,,,37.0621362848741
+Ngāti Tama Park,,,,,Gravel Path,,,161,,,,,,,{677E4798-F6C6-47BF-B9E4-1A9F8C4BEDE4},,,,,250.549591351478
+Ngāti Tama Park,,,,,Gravel Path,,,162,,,,,,,{51631767-7C1C-4371-B2E4-8253056563BE},,,,,1.14026709151847
+Tulsa Park,,,,,Gravel Path,,,163,,,,,,,{AB95999B-14D9-495A-B4C2-F1BF15F67D25},,,LHEYMANNS,2025/08/29 00:26:53+00,214.772124856414
+Timberlea Park,,,,,Sealed Path,,,164,,,,,,,{A99E576F-70C8-445A-93B2-A4922DC51BC0},,,,,140.863595174115
+McLeod Park,,,,,Sealed Path,,,165,,,,,,,{762A1E3B-2C44-4072-AB12-8E687C2B46C5},,,,,138.528889717294
+Edmund Lomas Park,,,,,Gravel Path,,,166,,,,,,,{B9770183-BD51-4450-8571-E1C4D022931A},,,,,83.7473239182866
+Birchville Esplanade Reserve,,,,,Gravel Path,,,167,,,,,,,{6B6FCE18-ABC3-471F-9413-CB981B12A1E8},,,,,154.948190168995
+Birchville Esplanade Reserve,,,,,Sealed Path,,,168,,,,,,,{93CBDECA-5D3D-466D-B309-D8A75612FA0A},,,,,49.056832150895
+Birchville Esplanade Reserve,Hutt River Trail,,,,Gravel Path,,,169,,,,,,,{07944633-ABAA-4320-94E4-A3316BCC4E1B},,,,,1688.98572439986
+Birchville Picnic Area,Hutt River Trail,,,,Gravel Path,,Easy,170,,,UHCC,,,Walking & Biking,{1532D3A2-7D9C-4C5E-83AF-51CD4700643A},,,,,187.675178571892
+Birchville Picnic Area,,,,,Gravel Path,,,171,,,,,,,{1DFEF0E8-8F3F-4131-A193-698A90B29BC5},,,,,43.7408598849212
+Birchville Picnic Area,,,,,Sealed Path,,,172,,,,,,,{B285E93C-7AD8-4046-81B2-66295CDC90D9},,,,,9.10365672542316
+Blackbeech Esplanade Reserve,Hutt River Trail,,,,Sealed Path,,Easy,173,,,UHCC,,,Walking & Biking,{0BAD3971-CFCE-49E9-97DE-386D83FC02BB},,,,,982.333204427842
+Hoggard Park,,,,,Sealed Path,,,174,,,,,,,{1FE1E321-0722-4070-A686-FCCF36D20A01},,,,,39.3861392968453
+Harcourt Park,Hutt River Trail,,,,Sealed Path,,Easy,175,,,UHCC,,,Walking & Biking,{113CCB09-709D-41F9-B55B-149F3191E7A9},,,,,314.219730572722
+Ngāti Tama Park,,,,,Sealed Path,,,176,,,,,,,{C977448C-1CF4-4AFC-8C14-362546C0A459},,,,,33.7327643782713
+Ngāti Tama Park,,,,,Sealed Path,,,177,,,,,,,{97C5725D-5301-4CA5-B675-0041FEB5CD8E},,,,,171.459009643963
+California Park,,,,,Gravel Path,Walking,Easy,179,,,UHCC,,,Walking,{2D6FE576-EA38-40CA-96A8-14E6C7679B98},,,,,811.078677437659
+Ngāti Tama Park,,,,,Sealed Path,,,180,,,,,,,{2146868F-F6CA-409C-A85C-B3161AD3312D},,,,,133.921900699747
+Ngāti Tama Park,,,,,Sealed Path,,,182,,,,,,,{1F57C70A-D617-46AF-8132-0DD2F3795C11},,,,,4.32328640143132
+Turon Park,,,,,Sealed Path,,,183,,,,,,,{9E0B0436-C07F-40E7-9D62-F270C6469AD1},,,,,33.3090756089244
+Turon Park,,,,,Sealed Path,,,184,,,,,,,{D95C231A-47C4-46D0-AC1C-0C5C87F18274},,,,,4.490793844775
+Turon Park,,,,,Sealed Path,,,185,,,,,,,{13C9F113-65E2-4A70-BD6D-1003C108A81A},,,,,40.1410935859645
+Riverstone Bush Reserve,,,,,Gravel Path,Multi,,186,,,UHCC,,,Walking,{4F81C0F3-13C7-492B-BE28-DF7C5D6F76CB},,,,,197.026065524671
+Craigs Flat Reserve,,,,,Gravel Path,,,188,,,,,,,{A66BBCB0-35AB-4D4D-A897-72E762A7388A},,,,,240.831088016835
+Ngāti Tama Park,,,,,Gravel Path,,,190,,,,,,,{ED638F6D-5227-4D10-8F10-7B32220D98D8},,,,,8.93545491045394
+Pinehaven Reserve,,,,,Gravel Path,,,191,,,,,,,{7AF7C407-B764-4E2C-A1B7-D3531F4F5A69},,,,,127.00138035661
+Pinehaven Reserve,,,,,Gravel/Natural Trail,,,192,,,,,,,{C7A00A20-3D20-49BF-B9AC-40BBBA4441F2},,,CSPENCE,2025/10/01 03:59:05+00,89.469632489728
+Pinehaven Reserve,,,,,Gravel Path,,,193,,,,,,,{F5DAD29A-65E1-4717-B7FC-AA7AF666FEBB},,,,,500.958860211207
+Rātā Park,,,,,Sealed Path,,,197,,,,,,,{12FE3D4F-DA68-463E-989A-B1A9FE212D99},,,,,3.95099845608676
+Timberlea Water Reservoir,,,,,Gravel Path,,,198,,,,,,,{CB7F6423-2621-42C9-A7BD-7EBE2D264C3B},,,,,201.110662780893
+Gentian Park,,,,,Gravel Path,,,199,,,,,,,{CE344019-6201-4783-9643-19811EA6D929},,,,,489.652536187869
+Silverstream Amenity Reserve,,,,,Sealed Path,,,200,,,,,,,{D9AF720D-D83A-458D-90FE-68AF2DBBC763},,,,,6.79615513008295
+Pine Avenue Park,,,,,Sealed Path,,,202,,,,,,,{92BD6C2C-CE9C-45CA-A5FE-3B064DBF7C21},,,,,9.84259364478859
+Maidstone Park,,,,,Sealed Path,,,203,,,,,,,{9127566A-109C-4E60-9F2D-BA5994691DCC},,,CSPENCE,2025/10/01 04:14:38+00,1176.68743038511
+Maidstone Max,,,,,Sealed Path,,,204,,,,,,,{FD6ACBC4-CD61-4E34-A315-6D4E8BEEB772},,,CSPENCE,2025/09/26 01:07:35+00,520.834145213851
+Ward/Miro Green Area,,,,,Sealed Path,,,205,,,,,,,{854C4837-AD3E-4569-AA84-944136ACEB49},,,,,34.2133391520753
+Silverstream Park,,,,,Sealed Path,,,209,,,,,,,{FAFA3305-F655-4B42-B39E-000367CBA7D0},,,,,22.6585202667021
+Riverbank Park,,,,,Sealed Path,,,214,,,,,,,{03770768-287D-4FDC-8955-56465012BE59},,,,,2.60148490289681
+Pine Avenue Park,,,,,Sealed Path,,,215,,,,,,,{3081410B-9076-4D26-B0FE-BE4716FA851F},,,,,56.8874491473113
+Pine Avenue Park,,,,,Sealed Path,,,216,,,,,,,{8D8B9BF4-5F91-4BC0-8610-58492A8E9486},,,,,10.500894988079
+Pine Avenue Park,,,,,Sealed Path,,,217,,,,,,,{89B31B1A-7FA8-49EC-B405-2BA25F8EC2A3},,,,,27.3894976198442
+Maidstone Bush,Maidstone Bush Walk,Seymour,,,Gravel/Natural Trail,Multi,Easy - Moderate,233,,,UHCC,,,Walking,{687DFD46-B5C8-4CE1-8728-5E58E9C596A8},,,,,1005.80827548389
+Maidstone Park,,,,,Gravel/Natural Trail,,,234,,,,,,,{89B1124E-654D-42E0-B3AA-31138713F6BB},,,CSPENCE,2025/10/01 04:15:31+00,16.8529464775037
+Maidstone Bush,,,,,Gravel/Natural Trail,,,235,,,,,,,{54F94777-58C7-4129-851C-BDB66F7010B4},,,CSPENCE,2025/10/01 04:09:39+00,297.709233070684
+Maidstone Bush,Maidstone Ridge Track,Upper Maidstone Downhill,,,Gravel/Natural Trail,Multi,Moderate,236,,,UHCC,,,Walking & Biking,{5D213924-D24F-4B2F-A907-218C7D029789},,,,,471.9957187853
+Maidstone Bush,Maidstone Bush Walk,Maidstone East,,,Gravel/Natural Trail,Walking,Easy - Moderate,237,,,UHCC,,,Walking,{C2E09F10-FD3F-4542-98BB-42D7C82C3338},,,,,1141.85454207257
+Maidstone Bush,,,,,Gravel/Natural Trail,,,238,,,,,,,{150A3F94-3C99-4A15-A96F-9BD1883FB4A6},,,,,5.88985419246463
+Maidstone Park,,,,,Natural Path,,,239,,,,,,,{101C282D-3ABD-4090-A875-A1E237C956D0},,,CSPENCE,2025/10/05 23:08:23+00,297.163895692482
+Maidstone Bush,,,,,Gravel/Natural Trail,,,240,,,,,,,{C5EE7824-0D14-433C-803B-29A9E2856608},,,,,735.709128399168
+Maidstone Bush,,Maidstone - Whitemans Valley Entrance,,,Gravel/Natural Trail,Multi,Easy - Moderate,242,,,UHCC,,,Walking,{C5FC177E-2799-4D4E-875D-2361172C8393},,,,,442.961719267998
+Maidstone Bush,,Maidstone Downhill,,,Gravel/Natural Trail,Downhill Mountain Biking,Extreme,243,,,NtrailZ,,,Biking,{E70F8C69-CC05-423D-AE1B-1FE7247162E0},,,CSPENCE,2025/10/06 00:16:04+00,1104.55177700238
+Maidstone Bush,Maidstone Bush Multi Use Track,Maidstone West,,,Gravel/Natural Trail,Walking,Easy - Moderate,244,,,UHCC,,,Walking,{27F0FCA3-5520-4510-AF0F-68FA867C0E39},,,,,1003.66410750328
+Upper Plateau Park,,,,,Natural Path,,,245,,,,,,,{748408DD-A814-4EB9-B780-BF08C2CD400D},,,,,3.90367547810417
+Upper Plateau Park,,,,,Natural Path,,,246,,,,,,,{B6F85047-4B90-4411-A058-EAC2D375CBE8},,,,,7.65228571568946
+Tawai Park,,,,,Natural Path,,,248,,,,,,,{E604AAF1-4FB2-4D10-AAA1-6AFD369D8F2C},,,,,4.20764314020983
+Speargrass Park,,,,,Natural Path,,,249,,,,,,,{6E38D4B8-70D0-4ED3-8D32-B77B885B5901},,,,,81.5970815986367
+Te Haukāretu Park,,,,,Natural Path,,,251,,,,,,,{63BFE32C-7879-4253-BD60-623545DDDAD1},,,,,4.75477421124846
+Plateau Road Play Area,,,,,Gravel Path,,,253,,,,,,,{A9780B4C-CBAD-4066-8AEB-DA626F3B6C89},,,CSPENCE,2025/10/01 04:40:03+00,37.9802353725652
+Ward/Miro Green Area,,,,,Natural Path,,,254,,,,,,,{2B9C57BD-7126-46F3-8AFD-1959668BD05B},,,,,13.2107246951665
+Ward/Miro Green Area,,,,,Natural Path,,,255,,,,,,,{9E87F2EB-1D6C-4E0B-B43A-0E4A38DA63B7},,,,,10.23582863524
+Savage Park,,,,,Sealed Path,,,256,,,,,,,{539FC7B5-AAC2-40AC-8B5B-C1BD5EDB9990},,,,,35.2842564536332
+Savage Park,,,,,Sealed Path,,,257,,,,,,,{30A0C289-A241-45EC-AC40-16DB9638B722},,,,,12.8164532591295
+Oxford Park,,,,,Sealed Path,,,260,,,,,,,{BDBD2D60-9662-4869-8D60-7E58C3BEE0F3},,,,,62.9654662538648
+Oxford Park,,,,,Sealed Path,,,261,,,,,,,{8E78B434-C00C-43B1-8B17-A29068369FCB},,,,,46.3372915426719
+Oxford Park,,,,,Sealed Path,,,262,,,,,,,{4B6841C1-3238-4C08-9F81-7BE839D00258},,,,,9.2633640990603
+Oxford Park,,,,,Sealed Path,,,263,,,,,,,{93B2764E-640B-4340-81B3-0BC69B319D86},,,,,7.53838771297722
+Oxford Park,,,,,Sealed Path,,,264,,,,,,,{77E4B251-EEC9-4EFE-A78D-F0ED78B4F493},,,,,75.3723932626995
+Oxford Park,,,,,Sealed Path,,,265,,,,,,,{B9F3B67F-DD8F-49DE-BF08-A17D0B7EF0B4},,,,,11.9571184526105
+Oxford Park,,,,,Sealed Path,,,266,,,,,,,{27EF3532-2221-41DF-97D4-3E74C4045248},,,,,75.1460887113721
+Oxford Park,,,,,Sealed Path,,,267,,,,,,,{D025E5A1-CB79-4CAB-B247-E447FDA0F8B5},,,,,91.2078058468983
+Oxford Park,,,,,Sealed Path,,,268,,,,,,,{CBCE083F-FF04-451E-AFD5-BE83355663D0},,,,,53.3031710968364
+Oxford Park,,,,,Sealed Path,,,269,,,,,,,{88C36124-5037-4E3B-853D-DF69E8055655},,,,,55.4804777958234
+Oxford Park,,,,,Sealed Path,,,270,,,,,,,{817735EC-BA3F-4F72-9BD4-BFBB9A6C05B9},,,,,1.46609033142322
+Oxford Park,,,,,Sealed Path,,,271,,,,,,,{D36757C2-6327-4EB5-9275-8660679AEB02},,,,,0.780121561040329
+Savage Park,,,,,Sealed Path,,,272,,,,,,,{83277FEE-1D6A-41A6-AB32-575435415151},,,,,0.935306928232652
+Ngāti Tama Park,,,,,Sealed Path,,,276,,,,,,,{78688377-6CD5-4EA9-AB16-26E847C3E228},,,,,2.45752162354683
+Ngāti Tama Park,,,,,Sealed Path,,,278,,,,,,,{167F2FDC-1195-4C05-B4C1-C0D1601A3575},,,,,2.80844485718063
+Ngāti Tama Park,,,,,Sealed Path,,,279,,,,,,,{D68F91A9-4F04-4909-94CC-6883AAE053CE},,,,,1.29256437742977
+Ngāti Tama Park,,,,,Sealed Path,,,280,,,,,,,{0B5106B0-5B8F-4F0D-94D1-394F2C83C946},,,,,4.46901085534649
+Ngāti Tama Park,,,,,Sealed Path,,,281,,,,,,,{757570FE-DB19-4C4C-B790-F854829A2D8C},,,,,5.34212297592308
+Stan Young Park,,,,,Sealed Path,,,282,,,,,,,{14584486-A233-4B0E-85CE-33E11E92C682},,,,,128.965705534198
+Emerald Hill Water Reservoir,,,,,Sealed Path,,,283,,,,,,,{F7722F57-EF5E-4CEB-ACF1-B1289A7E287E},,,,,57.9619399032176
+Riverbank Park,,,,,Sealed Path,,,285,,,,,,,{EDE14A1D-0A28-4344-8311-2208DD1D5B12},,,,,19.2300263956802
+Trentham Memorial Park,,,,,Natural Path,,Easy,286,,,UHCC,,,,{D72F8C08-4CEC-4E85-B036-ECBF83F14DE2},,,,,202.357065062911
+Te Haukāretu Park,,,,,Sealed Path,,,287,,,,,,,{7A86F7AC-8BC6-4FEC-BFAD-EB96C901F279},,,,,11.9834737814699
+Te Haukāretu Park,,,,,Sealed Path,,,288,,,,,,,{A65D2770-04E1-4317-8D2F-8038D5F23485},,,,,4.03535793920663
+Turon Park,,,,,Sealed Path,,,289,,,,,,,{40298285-866A-4EB4-B873-CA5193C38405},,,,,2.3112273426853
+Turon Park,,,,,Sealed Path,,,290,,,,,,,{FDCE6808-965A-49E1-89F0-66E9ADB93181},,,,,2.3420812340271
+Denver Grove Reserve,,,,,Sealed Path,,,291,,,,,,,{2C4E2542-9E98-49C7-80F1-2BC90010C1F7},,,,,39.5145330656091
+Craigs Flat Reserve,,,,,Sealed Path,,,292,,,,,,,{A78110B6-28B6-46BD-AE94-D227AA9878A7},,,,,2.78206487698175
+Riverstone Bush Reserve,,,,,Gravel/Natural Trail,Multi,,293,,,UHCC,,,Walking,{BB269781-AB77-4774-BC79-4DC86D42CA18},,,,,479.697033379387
+Riverstone Bush Reserve,,,,,Natural Path,,,294,,,,,,,{A4C5A24B-8281-410C-9D40-56F2D850B016},,,,,32.3512635057609
+Riverstone Reserve,,,,,Natural Path,,,297,,,,,,,{9DD714A0-3262-4E80-84C6-B9A4F469D600},,,,,30.227954100479
+Riverstone Reserve,,,,,Natural Path,,,298,,,,,,,{F7640412-6A8C-44C4-B294-63388B9B2AE2},,,,,3.47556002785197
+Riverstone Reserve,,,,,Gravel Path,,,299,,,,,,,{EDAE52DA-B7E4-41EB-864B-7D364F09BBFF},,,,,1.23894433274948
+Riverstone Reserve,,,,,Natural Path,,,300,,,,,,,{1BA7EB09-33FF-4912-8CFC-40E6E49F0CAC},,,,,22.6946884048524
+Riverstone Reserve,,,,,Natural Path,,,301,,,,,,,{1C03375C-535D-4600-B572-B5B1AACA042A},,,,,25.6082862697138
+Riverstone Reserve,,,,,Natural Path,,,302,,,,,,,{4D4D1AF8-77FE-439C-831B-D18AA6152C72},,,,,11.7440818621838
+Riverstone Reserve,,,,,Natural Path,,,303,,,,,,,{F005734E-57B9-42A5-B37F-C0EA604CD1F5},,,,,5.66581826356071
+Riverstone Reserve,,,,,Gravel Path,,,304,,,,,,,{29875D80-7CE6-434D-A95D-8DE4843EBD08},,,,,3.17748437302938
+Whakatiki Buffer Reserve,,,,,Natural Path,,,305,,,,,,,{66EC996B-909A-4F44-91EE-6EE9F21652C1},,,,,4.17583614649076
+Ward/Miro Green Area,,,,,Sealed Path,,,308,,,,,,,{E6A481DD-7E1D-4D1D-A2DD-60826823CD0D},,,,,1.81483917179273
+Ward/Miro Green Area,,,,,Natural Path,,,309,,,,,,,{04634141-1236-4D14-B8E5-1D17BCE97591},,,,,1.25236935446377
+Ward/Miro Green Area,,,,,Natural Path,,,310,,,,,,,{3361F98A-3656-476A-B092-11AB844C6CAB},,,,,2.29123825371626
+Ward/Miro Green Area,,,,,Sealed Path,,,311,,,,,,,{84CE5F8E-2662-4767-8C3E-79BDF667FBCC},,,,,18.0875195581153
+Ward/Miro Green Area,,,,,Sealed Path,,,312,,,,,,,{93A56977-9787-4C4D-9EF1-F390545687DC},,,,,13.656001314098
+Ward/Miro Green Area,,,,,Sealed Path,,,313,,,,,,,{4638FFBD-2DC9-45F0-826F-ECB4E309AC92},,,,,2.24708033070418
+Ward/Miro Green Area,,,,,Sealed Path,,,314,,,,,,,{C3154B6D-E77E-4477-92A7-D419E6E16A03},,,,,3.43102647577822
+Ward/Miro Green Area,,,,,Sealed Path,,,315,,,,,,,{79AC1A19-34FF-49EA-92FC-A160882B55B8},,,,,2.2410291765169
+Ward/Miro Green Area,,,,,Sealed Path,,,316,,,,,,,{F256E595-2678-4678-A62D-B4A422B14C8B},,,,,18.5180822714212
+Ward/Miro Green Area,,,,,Sealed Path,,,317,,,,,,,{447591CA-6926-4A4E-8F32-A83B3AC69296},,,,,2.74963238633822
+Ward/Miro Green Area,,,,,Sealed Path,,,318,,,,,,,{402FA404-7355-4F11-9194-C4703C13E8CB},,,,,10.7149624991687
+Ward/Miro Green Area,,,,,Sealed Path,,,319,,,,,,,{2427ECB6-F24A-43F2-8D8B-AD1D256783BD},,,,,7.95695407296609
+Ward/Miro Green Area,,,,,Sealed Path,,,320,,,,,,,{F363A8A5-8016-41A0-8C26-B57D407A3397},,,,,1.46835666660123
+Pine Avenue Park,,,,,Sealed Path,,,322,,,,,,,{F0EDE38A-117C-462C-92C1-2C4170F1563E},,,,,7.68661861001041
+Pine Avenue Park,,,,,Sealed Path,,,323,,,,,,,{C6E72A3C-1D96-4A36-8E5C-CD07E6984ED9},,,,,3.74900361914326
+Pine Avenue Park,,,,,Natural Path,,,324,,,,,,,{B2030554-C709-4A35-88B2-1C788A31A62C},,,,,1.47540919743857
+Pine Avenue Park,,,,,Sealed Path,,,325,,,,,,,{7A290987-5127-417B-800B-BD87A25A227D},,,,,3.27033080632795
+Pine Avenue Park,,,,,Natural Path,,,326,,,,,,,{DC32E0EE-7273-4A78-980B-01085AE2863B},,,,,18.5571729054675
+Pine Avenue Park,,,,,Sealed Path,,,327,,,,,,,{388E1E0D-2A08-4CA2-A4B6-AC3DB0F79B7A},,,,,9.11993456134478
+Pine Avenue Park,,,,,Sealed Path,,,329,,,,,,,{3755AF8C-4C4E-45A2-B722-CA80647B2056},,,,,26.2335509775938
+Riverbank Park,,,,,Sealed Path,,,330,,,,,,,{F21205E6-F88B-477F-AA1C-4B90801AE2A9},,,,,0.778206328681539
+Pine Avenue Park,,,,,Natural Path,,,331,,,,,,,{53DE237E-15DB-430D-B6C6-37DEB9B9B94C},,,,,114.144424924339
+Pine Avenue Park,,,,,Natural Path,,,332,,,,,,,{EB8EEFD2-DA94-43A6-8987-575117E532D2},,,,,12.955776872005
+Pine Avenue Park,,,,,Sealed Path,,,335,,,,,,,{66F7DC3C-E183-451F-B9AB-C4E1E8131493},,,,,28.408990600973
+Blackbeech Esplanade Reserve,,,,,Gravel Path,,,339,,,,,,,{0FE7D3EA-7EC2-475E-AA7F-B51AB886A30F},,,,,25.7859786103376
+Upper Plateau Park,,,,,Natural Path,,,341,,,,,,,{10867207-A206-4810-A997-54D02952EEF5},,,,,3.19089061722122
+Ngāti Tama Park,,,,,Natural Path,,,342,,,,,,,{49150883-43BF-410D-B4B5-C828B77284A7},,,CSPENCE,2025/10/01 04:00:02+00,410.973469806404
+Pine Avenue Park,,,,,Natural Path,,,343,,,,,,,{DD95040E-9A0C-4497-ACC0-FEC4973E5BBF},,,,,213.189737067415
+Pine Avenue Park,,,,,Natural Path,,,344,,,,,,,{A0FF696A-0770-451C-96E8-D70F175F82A3},,,,,197.870463605847
+Pine Avenue Park,,,,,Sealed Path,,,345,,,,,,,{84E6C471-A16B-4DDF-8847-88A57883D6C7},,,,,8.32646558592662
+Pine Avenue Park,,,,,Natural Path,,,346,,,,,,,{AB591292-A966-4FBE-A682-D5C1A51C8F0D},,,,,106.995274065968
+Silverstream Amenity Reserve,,,,,Natural Path,,,348,,,,,,,{3A7CAE93-E871-46FF-99C0-AA5FF0074F09},,,,,24.9726700196538
+Silverstream Amenity Reserve,Hutt River Trail,,,,Gravel Path,,,349,,,,,,,{2E198136-931D-43AF-996A-0EF3DFF4574A},,,,,29.507094555304
+Speargrass Reserve,,,,,Natural Path,,,350,,,,,,,{33EAAAFE-C447-456E-8219-00BFAADC4A07},,,,,79.6358856365609
+Stan Young Park,,,,,Natural Path,,,352,,,,,,,{B3E6FC6F-8C33-488D-8EE0-BD19DA400D68},,,,,19.4425338954487
+Riverstone Reserve,,,,,Gravel Path,,,356,,,,,,,{4BC82002-DDAD-4C0B-97ED-D7F20127964C},,,,,14.2283272457524
+Riverstone Reserve,,,,,Gravel Path,,,361,,,,,,,{FE55AD95-02AA-45A7-8D2F-4224ED86A183},,,CSPENCE,2025/09/26 01:41:47+00,57.3826765854724
+Riverstone Reserve,,,,,Gravel Path,,,362,,,,,,,{7A6DF3EA-14CF-4777-8035-AAB5B72BCC86},,,,,0.646702713771946
+Maidstone Bush,Maidstone Ridge Track,,,,Gravel/Natural Trail,,,363,,,,,,,{448D7BB9-D61B-42D6-9EFF-4FE5A4E41802},,,,,571.67854544143
+Moehau Park,,,,,Sealed Path,,,364,,,,,,,{7E574AFD-8927-4F62-B428-1DB53941D9AD},,,,,73.3731344209779
+Clyma Park,,,,,Sealed Path,,,366,,,,,,,{121DA0C2-4F4A-4A88-82DB-100E195D9E3F},,,,,56.671473974281
+Maidstone Bush,,,,,Gravel/Natural Trail,,,367,,,,,,,{93492A14-A683-4A50-A414-FB839F08160C},,,CSPENCE,2025/10/01 03:55:11+00,294.308633203198
+Te Awa Kairangi,Hutt River Trail,,,,Sealed Path,,Easy,368,,,UHCC,,,Walking & Biking,{2CA00629-B340-4D64-8652-50268AE2EEFD},,,,,327.196414294492
+Riverstone Terraces,,,,,Sealed Path,,,369,,,,,,,{E88DD821-4003-4931-A14E-D8B5A33F9E7B},,,,,446.234587403651
+Te Awa Kairangi,,,,,Sealed Path,,,370,,,,,,,{94E9E776-EE43-4C4D-AAF2-F676CFA0D1D0},,,,,57.8424893203596
+Totara Park West,,,,,Gravel Path,Multi,,371,,,UHCC,,,Walking & Biking,{E3D79309-8EA0-4388-88A7-F26C4C8A8D3E},,,CSPENCE,2025/09/26 01:49:04+00,2256.42060596083
+Heretaunga Park,,Heretaunga Park Track,,,Gravel Path,,,373,,,,,,,{0EDA0EF6-0C6E-45C3-B7DA-5394B45D679D},,,CSPENCE,2025/09/26 00:41:32+00,365.023424379765
+Te Awa Kairangi,,,,,Gravel Path,,,376,,,,,,,{967FF866-4D59-413F-9CAA-67C5DE5A9E24},,,,,288.030466975605
+Te Awa Kairangi,,,,,Gravel Path,,,377,,,,,,,{B4F9013A-8A32-4A4F-9F7A-F93283E31605},,,,,25.174577455392
+Te Awa Kairangi,,,,,Gravel Path,,,378,,,,,,,{099BDBDF-7A8E-463A-9873-07344BAE5E1E},,,,,547.338637795727
+Te Awa Kairangi,,,,,Gravel/Natural Trail,,,379,,,,,,,{8338FAA7-79F5-43D2-948A-624CB6FDD0EF},,,CSPENCE,2025/10/01 03:55:45+00,198.996497337858
+Te Awa Kairangi,,,,,Sealed Path,,Easy,380,,,UHCC,,,Walking & Biking,{65F5CEA3-39FA-48CE-A450-FCD9F3FD4BBD},,,,,916.006122820478
+Moonshine Park,,,,,Sealed Path,,,381,,,,,,,{803B20DD-78FA-46B6-815B-F3D77D0348D9},,,,,30.5754032801315
+Moonshine Park,,,,,Sealed Path,,,382,,,,,,,{42640EE7-DFD7-40BA-9941-FEF65DA1160A},,,,,44.2878063646801
+Te Awa Kairangi,,,,,Sealed Path,,,383,,,,,,,{229B332C-6762-4412-ADD2-325A175B8A28},,,,,32.3991567971229
+Te Awa Kairangi,,,,,Sealed Path,,Easy,384,,,UHCC,,,Walking & Biking,{0487B5AC-33F4-4154-B8B4-1ABC51F7D7C7},,,,,1687.60495843335
+Te Awa Kairangi,,,,,Natural Path,,Easy,385,,,UHCC,,,Walking & Biking,{2687E5B9-FEF3-49DF-AFB7-DB9B36E0F893},,,,,932.010947925578
+Te Awa Kairangi,,,,,Sealed Path,,Easy,386,,,UHCC,,,Walking & Biking,{21A9F287-DF00-4EF0-8D08-7B53CCBE46E0},,,,,426.475204796459
+Te Awa Kairangi,,,,,Gravel Path,,,387,,,,,,,{9CCB0931-4564-49C3-A9ED-4C32AAA6E1C5},,,,,12.2909167356639
+Te Awa Kairangi,,,,,Sealed Path,,,388,,,,,,,{5AB11CCE-EF15-4C8D-BA6D-25B6087982D9},,,,,775.113385157866
+Te Awa Kairangi,,,,,Gravel Path,,,389,,,,,,,{BC4CD868-3EFF-4D9F-B2F1-66AFB9293EEE},,,,,22.0106735452177
+McLeod Park,,,,,Sealed Path,,,390,,,,,,,{29B4DCB4-A56A-45FE-AD54-6B5FA8E18851},,,,,304.789973598513
+Akatarawa Forest,,,Airstrip Drive, from Woolshed Road,Gravel/Dirt Road,Multi (4WD Forestry),Easy - Moderate,391,,,TrailForks,,,Biking,{699E761A-B07C-4B79-801C-50A25D23ADCB},,,,,846.051633576423
+Riverstone Reserve,,,,,Gravel Path,,Easy - Moderate,392,,,UHCC,,,Walking & Biking,{C30D9071-71FB-4617-AD12-47A17AB36018},,,,,159.633799352784
+Maidstone Bush,,Maidstone Jump Track,,,Gravel/Natural Trail,Downhill Mountain Biking,Extreme,393,,,,,,Biking,{67399068-A835-4AAE-892F-8ACB195EE0EC},,,CSPENCE,2025/10/06 00:16:04+00,595.564848411059
+Kaitoke,Remutaka Rail Trail,,Kaitoke Loop Road,,Sealed Road,,,394,,,,,,,{69CE9DDD-29B8-410D-9206-D1E1C814F1D5},,,,,774.072365263716
+Kaitoke,Remutaka Rail Trail,,Incline Road,,Sealed Road,,,395,,,,,,,{C67F43DE-ECAF-4D96-89FC-FFBB5DDA7DB5},,,,,1651.73539532921
+Tunnel Gully,Plateau Ridge,Extended Break,,,Gravel/Natural Trail,,,396,,,,,,,{6C1DB352-3EC6-4201-A9B5-91DF457FA27C},,,,,1775.36893334608
+Tunnel Gully,Plateau Ridge,Mount Climie Firebreak,,,Gravel/Natural Trail,,,397,,,,,,,{04E6DD83-1020-4824-A874-C2D7F9BB2516},,,,,425.903204450885
+Tunnel Gully,Plateau Ridge,Extended Break,,,Gravel/Natural Trail,,,398,,,,,,,{2BDBA1E6-E708-4722-835C-724D31A7DC97},,,,,389.397294949942
+Tunnel Gully,Tunnel Gully Loop,Mount Climie Firebreak,,,Gravel/Dirt Road,Multi (4WD),Easy - Moderate,399,,,NtrailZ & UHCC,,,Biking,{281F4540-6242-4DD1-B88C-04E50C9433C5},,,,,278.873292944699
+Te Marua,Remutaka Rail Trail,,Plateau Road, from SH2 to Maymorn Road,Sealed Road,,,400,,,,,,,{C9EFFC4C-9AC3-444E-9023-4E37341A20AD},,,,,255.321213894397
+Maymorn,Remutaka Rail Trail,,Maymorn Road,,Sealed Road,,,401,,,,,,,{3D43F968-4A6D-48EC-91DB-DC6AAA16F78C},,,,,1314.55443973091
+Maymorn,Remutaka Rail Trail,,Parkes Line Road,,Sealed Road,,,402,,,,,,,{80E29B30-BE6C-4112-BF98-A71A394E864C},,,,,178.016295850201
+Te Marua,Remutaka Rail Trail,,Beechwood Lane,,Sealed Road,,,403,,,,,,,{05AE8E3A-3374-41D6-A90E-66FB587244A1},,,,,171.787221014027
+Te Marua,Remutaka Rail Trail,,Maymorn Road,,Sealed Road,,,404,,,,,,,{8033047D-B860-4DD2-B64F-0039F284B89C},,,,,553.333471461397
+Te Marua,Remutaka Rail Trail,,,,Sealed Path,,,405,,,,,,,{B5897C33-2A90-4220-BFA0-E7804804AE24},,,,,43.3251992965735
+Te Marua,Remutaka Rail Trail,,Beechwood Lane, underpass,Sealed Path,,,406,,,,,,,{77E1D44E-B4C0-4BC0-86E7-79A83BB3799B},,,,,60.5186148854626
+Te Marua,Remutaka Rail Trail,,SH2, from Beechwood Lane to Plateau Road,Sealed Path,,,407,,,,,,,{A3601466-4930-4284-815D-79417D19A3BF},,,,,107.546355117966
+Tunnel Gully,Remutaka Rail Trail,Mangaroa Tunnel,,,Sealed Path,Multi,Easy,408,,,Tracks.org.nz,,,Walk & Biking,{6CD8D43D-7F7F-4F7C-8041-F9083193082D},,,,,209.192487527086
+Tunnel Gully,,,,,Gravel/Natural Trail,,,409,,,,,,,{9A800D77-BA46-476E-9ED0-A607AF219FCD},,,,,236.786737902821
+Kaitoke Regional Park,,Half Flow (The Wolf),,,Gravel/Natural Trail,,,410,,,,,,,{A72A1C3B-03B8-4CA2-9902-CDF7C3AF00B6},,,,,752.597426163651
+Kaitoke Regional Park,,Road to Flume Bridge,,,Sealed Path,Walking,Easy,411,,,GWRC & UHCC,,,Walking,{2DE7CE23-797F-4679-B256-8FCB66945C9D},,,,,1021.25022138509
+Kaitoke Regional Park,,Swingbridge Track,,,Gravel/Natural Trail,Walking,Easy,412,,,GWRC & UHCC,,,Walking,{52B3FBF4-F685-46F0-973E-6C61799DCDFF},,,,,995.795702980622
+Kaitoke,Nortbett Creek Loop,,Waterworks Road,,Sealed Road,,,413,,,,,,,{77637415-FC05-4856-A3CE-4BFF2FB2C5A3},,,,,314.571997588257
+Kaitoke Regional Park,Nortbett Creek Loop,,Hutt Catchment Road,,Gravel/Dirt Road,,,414,,,,,,,{B64A80FC-7DEB-4F37-A96C-03A75267E977},,,,,2726.2110534198
+Keith George Memorial Park,Trig and North Ridge Loop,North Ridge Track,,,Gravel/Natural Trail,Walking,Moderate - Hard,415,,,UHCC,,,Walking,{DAE36148-BD7D-4681-8C30-9C128C437D63},,,CSPENCE,2025/10/06 00:40:37+00,1132.53898524582
+Akatarawa Forest,,Titi,Titi Road,,Gravel/Natural Trail,Multi,Moderate,416,,,Karapoti Classic & TrailForks,,,Biking,{F9E37D2F-8618-4E48-988C-FE4BCE6314D3},,,,,495.726830788629
+Trentham Memorial Park,,,,,Gravel Path,,Easy,417,,,UHCC,,,,{C8CBFF0D-7A78-48B3-B1D4-96788CE8140A},,,,,190.756631679225
+Trentham Memorial Park,,,,,Gravel Path,Walking,Easy,418,,,,,,,{0BCBAC31-F500-4A6D-BB24-38497593FAFE},LCARTER,2024/09/17 03:48:37+00,CSPENCE,2025/09/26 00:50:03+00,117.848992089807
+Wallaceville Reserve,,,ACCESSWAY (LEO WAIKARI CRES - WALLACEVILLE RESERVE),,Gravel Path,,,419,,,,,,Walking & Biking,{8432F973-1775-4C0C-AC1F-1B5D3D09A003},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:56:30+00,70.8280772048155
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,420,,,,,,Walking & Biking,{6E03892F-1AA5-4962-8AAD-C13B2D264771},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,21.2564785174365
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,421,,,,,,Walking & Biking,{DF69B752-95B3-4ABE-9810-B64B59916325},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,8.44765686302113
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,422,,,,,,Walking & Biking,{6EB5FF67-056E-407D-B78F-906F20D4498B},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,8.32631704297193
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,423,,,,,,Walking & Biking,{9A7C0E3B-5FCA-4328-BBE3-DA08BD364B88},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,54.5992399124773
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,424,,,,,,Walking & Biking,{FE472D47-888B-44BE-8AD7-3AB26A37C5BA},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,28.3561042147913
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,425,,,,,,Walking & Biking,{2AAC9DCF-22B7-44EB-9CE0-3C81B454C87F},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,5.84074891181305
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,426,,,,,,Walking & Biking,{D8232818-F02E-4A01-B3C2-35E4C10A1AD3},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,8.83016895870518
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,427,,,,,,Walking & Biking,{FC7DB8C1-0A0B-4B86-AF79-E4C576AAEB65},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,63.8351017623718
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,428,,,,,,Walking & Biking,{04920E75-C457-4588-B20B-C50F2A54F605},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,6.58733242748073
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,429,,,,,,Walking & Biking,{420D0E5C-29B2-46C6-9D94-6F1C6797BF5B},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,32.0127799668637
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,430,,,,,,Walking & Biking,{E1C9428E-4AB9-4503-A824-CE4764D762E9},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,30.9061880282338
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,431,,,,,,Walking & Biking,{66311B0C-E3E8-427E-BC8B-85F7C8E0F6AB},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,6.51348824875151
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,432,,,,,,Walking & Biking,{F594D937-7D85-4B20-8851-AEB7F06C9DE5},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,22.0073027576709
+Wallaceville Reserve,,,ACCESSWAY (ASTON CRES - WALLACEVILLE RESERVE),,Gravel Path,,,433,,,,,,Walking & Biking,{84A934A2-294D-44F1-828A-74C4AEF9C3BD},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,60.7788550833393
+Wallaceville Reserve,,,ACCESSWAY (ASTON CRES - WALLACEVILLE RESERVE),,Gravel Path,,,434,,,,,,Walking & Biking,{C6E4F02D-F02D-4FDC-BA1D-191A76D38621},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,18.3553302190576
+Wallaceville Reserve,,,ACCESSWAY (ASTON CRES - WALLACEVILLE RESERVE),,Gravel Path,,,435,,,,,,Walking & Biking,{AEA0B823-0F9E-414C-AB24-A69D467B85B5},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,12.9472737443062
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,436,,,,,,Walking & Biking,{BA394C46-0924-4E52-AAB8-DBBB10D41854},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,9.42939496595243
+Wallaceville Reserve,,,ACCESSWAY (MĀWAI HAKONA DRIVE - WALLACEVILLE RESERVE),,Gravel Path,,,437,,,,,,Walking & Biking,{EA579A4F-B06B-4798-BC45-3E8795DBAACD},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,70.6859086504916
+Wallaceville Reserve,,,ACCESSWAY (MĀWAI HAKONA DRIVE - WALLACEVILLE RESERVE),,Gravel Path,,,438,,,,,,Walking & Biking,{66D83E44-4100-4C25-A201-AE259265C466},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,66.2271223648536
+Wallaceville Reserve,,,ACCESSWAY (ASTON CRES - WALLACEVILLE RESERVE),,Gravel Path,,,439,,,,,,Walking & Biking,{79C4219C-5E71-4792-8CE3-CFB02E3139E3},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,11.2801700000507
+Wallaceville Reserve,,,WALLACEVILLE RESERVE,,Gravel Path,,,440,,,,,,Walking & Biking,{DC50B150-E381-4076-930B-7B6D9AB8247D},LHEYMANNS,2025/08/28 22:43:18+00,LHEYMANNS,2025/08/28 22:54:49+00,8.45172383345246
+Grant's Bush,,,,,Gravel Path,,,441,,,,,,,{F5650314-DC6E-46CF-B010-B0F73B775866},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,3.62950303071922
+Grant's Bush,,,,,Gravel Path,,,442,,,,,,,{B32FDAC9-31BB-4D62-A91F-A00149269DC9},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,61.1593192882263
+Grant's Bush,,,,,Gravel Path,,,443,,,,,,,{B06272BA-A841-4B73-AB94-BCCBCECDC4D8},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,23.510343099666
+Grant's Bush,,,,,Gravel Path,,,444,,,,,,,{55A3F681-844F-4BD7-A6C8-CAC90A4F4BF6},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,13.1833317753827
+Grant's Bush,,,,,Gravel Path,,,445,,,,,,,{FE6DA7E5-810C-4094-AB7D-DA5982A325EF},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,36.5036472173592
+Grant's Bush,,,,,Gravel Path,,,446,,,,,,,{E666D0B8-EE2F-4295-A07E-66FD5A9DF64F},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,67.381412585744
+Grant's Bush,,,,,Gravel Path,,,447,,,,,,,{02F743CF-74CF-46CF-B59C-D27E0A6FD347},LHEYMANNS,2025/08/28 22:48:58+00,LHEYMANNS,2025/08/28 22:48:58+00,59.8834983306885
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,448,,,NtrailZ,,,Walking,{E4800E8C-E7F4-48C0-BE7B-9D86325F355D},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,19.4940688039998
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,449,,,NtrailZ,,,Walking,{B9671921-A59B-43B9-88F6-DD67E61FA64C},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,62.609550510872
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,450,,,NtrailZ,,,Walking,{83D8AAA0-8597-41DE-B2E8-3B243F6FD46B},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,37.633597343275
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,451,,,NtrailZ,,,Walking,{803BDC0F-C102-4E16-ACE3-E99A1D1F4DC3},LHEYMANNS,2025/08/29 00:26:53+00,CSPENCE,2025/09/26 02:22:28+00,104.456122434208
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,452,,,NtrailZ,,,Walking,{9A136D09-36C5-4315-9AD5-F2B4FD671755},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,3.91568409604248
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,454,,,NtrailZ,,,Walking,{1AFE404A-D1D8-429E-8C7F-EBB09C8894E1},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,4.65547986319591
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,455,,,NtrailZ,,,Walking,{F9F76CE9-F3A6-402F-87A1-C8402AF895A1},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,3.80059418775538
+Tulsa Park,,,,,Gravel Path,,,456,,,,,,,{B0D0F351-8ABD-4964-9772-6B1F5CA96230},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,21.2804796761936
+Akatarawa Forest,Cannon Point Walkway,The Zigzag,,,Gravel/Natural Trail,Multi,Easy - Moderate,457,,,NtrailZ,,,Walking,{5E6131F2-C500-4851-8C39-BF552291001F},LHEYMANNS,2025/08/29 00:26:53+00,LHEYMANNS,2025/08/29 00:26:53+00,114.967611920682
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Gravel Path,,Easy,464,,,,,,,{6C24E9C2-0C24-4DF2-9200-CCC1B605CA3F},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:30:18+00,6.94044289725087
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Sealed Path,,Easy,465,,,,,,,{1478FCED-359B-41D7-9C47-22A60D2521FE},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:30:42+00,16.8262439143383
+Heretaunga Park,,Heretaunga Park Track,HERETAUNGA PARK WALKWAY,,Sealed Path,,Easy,466,,,,,,,{607D7B58-7A44-42E4-A4FE-F8FE3C9C10F0},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:30:42+00,61.5163071957838
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Gravel Path,,Easy,468,,,,,,,{D974DAC3-1F32-4565-8E7D-AAF48AFF2418},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:29:49+00,40.5462685950953
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Gravel Path,,Easy,469,,,,,,,{852EB433-4822-434E-92CE-879D51035880},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:29:49+00,79.0788250194889
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Sealed Path,,Easy,470,,,,,,,{1FA4DF14-BB1B-4EE9-AC1F-039DEA4A1A9D},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:42:12+00,8.29423373391696
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Gravel Path,,Easy,471,,,,,,,{8BD09967-49A7-4521-AA0E-DC99370DFEC2},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/10/01 03:43:36+00,4.40476521514865
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Gravel Path,,Easy,472,,,,,,,{80632F47-5E71-4E15-96F8-DE19ED231296},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:41:38+00,131.734822271868
+Heretaunga Park,,Heretaunga Park Track,ACCESSWAY (KIWI ST - HERETAUNGA PARK),,Sealed Path,,Easy,473,,,,,,,{9AA0FE29-FC00-40FE-8A9C-DCA8BFD0FC25},CSPENCE,2025/09/26 00:00:16+00,CSPENCE,2025/09/26 00:30:42+00,3.9884690320974
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,474,,,,,,,{2292D223-26DF-4BA4-A7B3-2FC4531039F5},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:48:39+00,27.860577111251
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,475,,,,,,,{D386B535-1755-4903-A072-796E06CEE3BA},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:48:39+00,15.3249777093351
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,476,,,,,,,{51F0BB5F-C26D-4FC1-9C8D-F8547543C1D5},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,372.223443000386
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,477,,,,,,,{781292AC-BF77-474B-BC9A-90C22886721F},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:09+00,25.2551987446927
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,478,,,,,,,{F339C0C9-BB6C-4571-BF7C-4094C40E3CF9},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,36.1060162065806
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,479,,,,,,,{EAD6F62B-B79B-4994-B790-6FCA2089A767},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,9.45903730407257
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,,480,,,,,,,{8382ACA7-234A-417B-95B6-1D74D46D9737},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:52:40+00,6.05668891673354
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,481,,,,,,,{29426194-2D8C-49E6-A446-C121EDADF040},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,11.2886991195572
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,482,,,,,,,{FAAE91BC-595C-4DD4-BE76-4605BFA60466},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,272.141049555154
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,483,,,,,,,{AD512578-B191-4EFF-920C-CDEB1914FF08},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,17.5449912644184
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,484,,,,,,,{669E40FA-DB20-4660-9F45-49FA4956AD92},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:45:38+00,102.049902195694
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,485,,,,,,,{A2BF8463-EDD9-4941-B87B-ED502F8C5E21},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,11.8590699648253
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,486,,,,,,,{ED69940F-5F5E-4022-856B-E8500202865C},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:45:56+00,7.5444998354536
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,487,,,,,,,{336EDE1B-5945-4D93-A0B1-E0EDC335E929},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,406.584367617117
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,488,,,,,,,{5088B1D5-C6A3-4E8E-84B4-5DCCC1355BBB},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,16.4158288985323
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,489,,,,,,,{2065536A-8146-4D76-AEB2-B3222D1EE821},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,12.2973206206594
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,490,,,,,,,{120C19EE-BD8E-435A-A856-3E829228611F},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,113.757634994468
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,491,,,,,,,{E2CE1CA5-840A-4B85-AEEF-94CD3F9A3D36},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:52:24+00,24.2898639008601
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,492,,,,,,,{90B08244-387B-4B07-8FA6-8D80CFD91771},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,109.356059697141
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,493,,,,,,,{6DF06EE0-5E0A-4FC5-A9F5-5A2E7AD45DB9},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,377.217315406521
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,494,,,,,,,{6B9FA2D4-79F4-46A3-8FFA-C10192E8792E},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:56+00,10.4921864714854
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,495,,,,,,,{ADEDFDC8-48ED-473C-987C-ED7D30EFF91A},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:48:39+00,7.40392126443819
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,497,,,,,,,{1E4A6500-906A-4035-BAA0-676A4FE9C324},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:49:04+00,30.8936275705077
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,498,,,,,,,{DEE14A65-D8FE-423C-9ACD-9618EE6E1DE8},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:48:39+00,51.127679438199
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,499,,,,,,,{B71546A1-EB88-4AF5-9972-34E7126F40E9},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:48:39+00,23.2786495702736
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,500,,,,,,,{67DD58B5-AB7E-4243-90F9-F5B361F9F066},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,74.9577702558803
+Heretaunga Park,,Māwaihakona Stream Walkway,MĀWAIHAKONA STREAM WALKWAY,,Gravel/Natural Trail,,Easy - Moderate,501,,,,,,,{F96810E6-B84E-4C2F-8901-85DDA1A32305},CSPENCE,2025/09/26 00:05:31+00,CSPENCE,2025/10/01 03:47:54+00,4.70000455213789
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,Easy,502,,,UHCC,,,,{495484DF-671D-4347-BE82-E42CD5B53C6F},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:18:56+00,55.575135021166
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,Easy,503,,,UHCC,,,,{192AF9DA-5FD1-4DA2-8E90-D7C556291453},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,29.2684926857082
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR) (PRIVATE),,Sealed Path,,,504,,,UHCC,,,,{55069AC2-D5F5-4525-BFB1-4EE793680FC7},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,7.64854556849496
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR) (PRIVATE),,Sealed Path,,,505,,,UHCC,,,,{05302FEE-8B62-4A1F-B6E5-6A4E913F2EDA},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,6.41001442717146
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,506,,,UHCC,,,,{1F4AD562-7FDF-41E9-96DA-786997AB284F},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,7.45350194539453
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,507,,,UHCC,,,,{99D98234-1F33-4F23-BCF9-92230C08F237},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,4.37663049388454
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,509,,,UHCC,,,,{B0FE99F9-81A7-4DEC-9C9E-9DCE9AF5F9FF},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,1.20410059795683
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,510,,,UHCC,,,,{C070945C-8B52-4EBC-88C1-78A72526E627},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,22.7421895474523
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,511,,,UHCC,,,,{12BF3388-4ABD-40E6-A233-B68A59C08CF6},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,6.14875349935754
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,512,,,UHCC,,,,{B127C0BC-AE4A-4DF7-BA65-F77C3BDAB299},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,2.08738950684956
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,513,,,UHCC,,,,{5BCD7906-FC35-4967-A218-CBA7BD7D7A53},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,3.33688523505378
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,514,,,UHCC,,,,{4FC034A2-40C5-4BA5-BA76-6E0B11807256},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,12.7911743915331
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,515,,,UHCC,,,,{8AEF283C-6DBE-4AC6-A08C-E314BD8BBC99},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,2.58422367452974
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,516,,,UHCC,,,,{23C3C706-03E0-4F5D-A565-685CE23B6590},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,2.45613099202791
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,517,,,UHCC,,,,{E0ACAC0D-C575-40B4-A390-CF68435D322E},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,2.98120277740378
+Willow Park,,Willow Park Track,ACCESSWAY (BLUE MOUNTAINS RD - TAPESTRY GROVE - SUNBRAE DR),,Sealed Path,,,518,,,UHCC,,,,{230C7D47-B247-4DE7-9147-97ABD0099826},CSPENCE,2025/09/26 01:17:12+00,CSPENCE,2025/09/26 01:54:09+00,54.5503779392052
+Totara Park West,,,,,Gravel Path,Multi,,520,,,UHCC,,,Walking & Biking,{4C18EAAF-50AE-4D3D-9317-8B66E76183A3},CSPENCE,2025/09/26 01:49:04+00,CSPENCE,2025/09/26 01:49:04+00,401.252534526411
+Maidstone Park,,,,,Natural Path,,,528,,,,,,,{457D4FA5-9553-4B1A-8774-4DEF5B2D4C7F},CSPENCE,2025/10/05 22:45:12+00,CSPENCE,2025/10/05 22:45:12+00,43.9936191856117
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,924,,,Forest & Bird,,,,{31AC4BBF-8971-4332-88F7-E80F2322520F},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:44+00,5.69370503323357
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,925,,,Forest & Bird,,,,{2BF3E3A1-420A-41A8-A3CB-8C76A2708B8E},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,4.67891272523998
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,926,,,Forest & Bird,,,,{F04E9A7A-F2E2-47E3-BDA1-A905778B0D38},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,7.29028210144505
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,927,,,Forest & Bird,,,,{CF34C743-C542-472D-B341-79283E8092EB},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,32.1948848937767
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,928,,,Forest & Bird,,,,{32B3AD7E-C99B-416C-9562-AC1FDCAAF543},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,31.0418923473632
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,929,,,Forest & Bird,,,,{4969D713-AD71-4EFA-AEC0-554AAC14E7A0},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,82.6275553047004
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,930,,,Forest & Bird,,,,{F247F2F5-3771-49B3-9989-7D2A80BF7836},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,9.5732971077937
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,931,,,Forest & Bird,,,,{F31DE8B1-C2F3-4BDE-B7F1-436A61E6511D},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,6.91141295128996
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,932,,,Forest & Bird,,,,{C640FF40-0D55-4BF4-BEC6-5489A90026CA},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,16.7953954828615
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,933,,,Forest & Bird,,,,{CBA43B04-B057-43B4-9326-14FA495860DD},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,6.07136044888086
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,934,,,Forest & Bird,,,,{97A1BF6F-2C25-44E1-93D1-0F80038A0EE2},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,7.24938968964663
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,935,,,Forest & Bird,,,,{DF3F9681-D44E-4086-AB63-F63CCC0038E4},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,43.0353205732032
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,936,,,Forest & Bird,,,,{D96C25B1-F43B-4432-85EA-23FDD62269C5},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,13.8920324935909
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,937,,,Forest & Bird,,,,{68295299-37B6-4129-B811-2441D7B4BC63},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,310.049523947145
+Birchville Park,,Birchville Park Track,ACCESSWAY (BIRCHVILLE PARK),,Gravel Path,,,938,,,Forest & Bird,,,,{22DF0564-2418-461E-A2C6-A1E268FCB072},CSPENCE,2025/10/01 04:21:27+00,CSPENCE,2025/10/01 04:22:26+00,6.88233291624286
